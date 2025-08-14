@@ -1,0 +1,25 @@
+﻿Kategorie,Feature,Spearman ρ,p,Stärke,Richtung,Interpretation
+Strukturale Inszenierung und visuelle Dynamik,Videolänge,0.139,.002,schwach,positiv,schwacher positiver Zusammenhang
+Strukturale Inszenierung und visuelle Dynamik,Cut Count,0.052,.249,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Strukturale Inszenierung und visuelle Dynamik,Cuts pro Sekunde,0.051,.254,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Strukturale Inszenierung und visuelle Dynamik,Sekunden pro Cut,0.012,.846,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Strukturale Inszenierung und visuelle Dynamik,Szenenvielfalt,0.139,.002,schwach,positiv,schwacher positiver Zusammenhang
+Strukturale Inszenierung und visuelle Dynamik,Kameradistanzvariation,0.052,.247,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Bildtechnische Qualität,Helligkeit,-0.067,.137,vernachlässigbar,negativ,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Bildtechnische Qualität,Kontrast,0.044,.323,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Bildtechnische Qualität,Sättigung,0.063,.161,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Bildtechnische Qualität,Schärfe,0.034,.442,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Ästhetik und visuelle Optimierung,Aesthetic Score,0.038,.400,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Ästhetik und visuelle Optimierung,Beauty Score,0.02,.668,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Ästhetik und visuelle Optimierung,Beauty Score SD,0.039,.390,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Ästhetik und visuelle Optimierung,Hautglättung,-0.103,.021,schwach,negativ,schwacher negativer Zusammenhang
+Emotion und Präsenz,Face Pitch,-0.219,< .001,schwach,negativ,schwacher negativer Zusammenhang
+Emotion und Präsenz,Face Yaw,-0.085,.060,vernachlässigbar,negativ,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Emotion und Präsenz,Pose Confidence,-0.082,.065,vernachlässigbar,negativ,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Emotion und Präsenz,Personenanzahl,-0.055,.221,vernachlässigbar,negativ,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Textuelle Merkmale,Caption-Länge Zeichen,0.082,.068,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Textuelle Merkmale,Caption-Länge Wörter,0.11,.015,schwach,positiv,schwacher positiver Zusammenhang
+Textuelle Merkmale,Caption-Sentiment-Index,0.066,.139,vernachlässigbar,positiv,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Textuelle Merkmale,Kommentar-Sentiment-Index,0.344,< .001,moderat,positiv,moderater positiver Zusammenhang
+Textuelle Merkmale,Kommentar-Emotionsvielfalt,-0.045,.395,vernachlässigbar,negativ,kein statistisch signifikanter Zusammenhang im vorliegenden Sample
+Textuelle Merkmale,Topic-Vielfalt,0.208,< .001,schwach,positiv,schwacher positiver Zusammenhang

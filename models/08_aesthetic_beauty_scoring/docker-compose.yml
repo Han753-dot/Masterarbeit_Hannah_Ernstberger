@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  caffe:
+    image: bvlc/caffe:gpu
+    command: bash container_setup.sh
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    volumes:
+      - C:/Users/hanna/Documents/Studium/master/models/models:/workspace
+      - C:/Users/hanna/Documents/Studium/master/test_data:/test_data
+    stdin_open: true
+    tty: true

@@ -1,0 +1,8 @@
+﻿Hypothese,Kategorie,Unterkategorie,Merkmal,Rohvariable,Technische Variable,n VI,M VI,n RI,M RI,U,p Mann-Whitney-U,t Welch,p Welch,Cohen's d (RI - VI),Richtung,Signifikant p < .05
+H4,Emotion und Präsenz,Gesichtsemotion,Emotionssicherheit,face_emotion__emotion_major_beit_confidence,nein,250,0.573,250,0.597,27776.0,0.031531492522238594,-2.075,0.03849327608523624,0.186,RI höher,*
+H4,Emotion und Präsenz,Gesichtsemotion,Emotionsvielfalt,face_emotion__emotion_unique_labels,nein,250,2.748,250,3.504,22678.5,6.51411948240016e-08,-5.673,2.4265491110717768e-08,0.507,RI höher,*
+H4,Emotion und Präsenz,Körperpose,Pose Confidence,body_pose__pose_confidence,nein,250,0.639,250,0.583,36535.0,0.0010701071437805212,3.842,0.00013852186303256082,-0.344,VI höher,*
+H4,Emotion und Präsenz,Personenanzahl,Personenanzahl,structural_personen_anzahl__personen_anzahl,nein,250,2.332,250,1.931,35470.5,0.008978763966500894,3.495,0.0005297203780799405,-0.313,VI höher,*
+H4,Emotion und Präsenz,Personenanzahl,Maximale Personenanzahl,structural_personen_anzahl__personen_anzahl_max,nein,250,4.44,250,4.668,30241.0,0.5271223745436877,-0.659,0.5105083020880749,0.059,RI höher,
+H4,Emotion und Präsenz,Gesichtsorientierung,Face Pitch,angle_face_orientation__face_pitch_mean,nein,247,6.948,244,6.226,32329.0,0.16270012227765707,1.422,0.1557185489440194,-0.129,VI höher,
+H4,Emotion und Präsenz,Gesichtsorientierung,Face Yaw,angle_face_orientation__face_yaw_mean,nein,247,-0.718,244,-0.559,29846.0,0.8548801718601666,-0.137,0.8907017731850428,0.012,RI höher,

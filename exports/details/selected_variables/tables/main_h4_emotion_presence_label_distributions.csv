@@ -1,0 +1,29 @@
+﻿Kategorie,Merkmal,Rohvariable,Ausprägung,VI: n,VI: %,RI: n,RI: %
+Emotion und Präsenz,Dominante Gesichtsemotion,face_emotion__emotion_major_beit_readable,Wut,6,2.4,7,2.8
+Emotion und Präsenz,Dominante Gesichtsemotion,face_emotion__emotion_major_beit_readable,Ekel,5,2.0,13,5.2
+Emotion und Präsenz,Dominante Gesichtsemotion,face_emotion__emotion_major_beit_readable,Angst,3,1.2,1,0.4
+Emotion und Präsenz,Dominante Gesichtsemotion,face_emotion__emotion_major_beit_readable,Freude,21,8.4,5,2.0
+Emotion und Präsenz,Dominante Gesichtsemotion,face_emotion__emotion_major_beit_readable,Neutral,146,58.4,169,67.6
+Emotion und Präsenz,Dominante Gesichtsemotion,face_emotion__emotion_major_beit_readable,Traurigkeit,33,13.2,42,16.8
+Emotion und Präsenz,Dominante Gesichtsemotion,face_emotion__emotion_major_beit_readable,Überraschung,36,14.4,13,5.2
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Telefonieren,36,14.4,32,12.8
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Klatschen,11,4.4,2,0.8
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Radfahren,0,0.0,5,2.0
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Tanzen,21,8.4,9,3.6
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Trinken,16,6.4,34,13.6
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Essen,7,2.8,9,3.6
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Kämpfen,1,0.4,1,0.4
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Umarmen,2,0.8,0,0.0
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Lachen,113,45.2,90,36.0
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Musik hören,11,4.4,5,2.0
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Laufen,8,3.2,12,4.8
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Sitzen,18,7.2,34,13.6
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Schlafen,2,0.8,7,2.8
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Textnachrichten schreiben,3,1.2,3,1.2
+Emotion und Präsenz,Dominante Körperpose,body_pose__pose_orientation,Laptop verwenden,1,0.4,7,2.8
+Emotion und Präsenz,Kategoriale Gesichtsorientierung,angle_face_orientation__angle_face_orientation,Down,29,11.6,17,6.8
+Emotion und Präsenz,Kategoriale Gesichtsorientierung,angle_face_orientation__angle_face_orientation,Frontal,163,65.2,180,72.0
+Emotion und Präsenz,Kategoriale Gesichtsorientierung,angle_face_orientation__angle_face_orientation,Left,34,13.6,25,10.0
+Emotion und Präsenz,Kategoriale Gesichtsorientierung,angle_face_orientation__angle_face_orientation,Right,21,8.4,21,8.4
+Emotion und Präsenz,Kategoriale Gesichtsorientierung,angle_face_orientation__angle_face_orientation,Unbestimmt,3,1.2,6,2.4
+Emotion und Präsenz,Kategoriale Gesichtsorientierung,angle_face_orientation__angle_face_orientation,Up,0,0.0,1,0.4

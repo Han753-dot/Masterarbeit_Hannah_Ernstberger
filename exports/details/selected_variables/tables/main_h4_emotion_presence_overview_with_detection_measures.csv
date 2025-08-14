@@ -1,0 +1,12 @@
+﻿Kategorie,Merkmal,M (VI),M (RI),p,Cohen's d (RI - VI),Richtung,Technisches Detektions-/Sichtbarkeitsmaß
+Gesichtsemotion,Emotionssicherheit,0.573,0.597,.032,0.186,RI höher,nein
+Gesichtsemotion,Vielfalt erkannter Emotionen,2.748,3.504,< .001,0.507,RI höher,nein
+Gesichtsemotion,Anzahl emotional auswertbarer Frames*,18.564,43.156,< .001,0.669,RI höher,ja
+Körperpose,Pose Confidence,0.639,0.583,.001,-0.344,VI höher,nein
+Körperpose,Anzahl erkannter Pose-Frames*,18.564,43.156,< .001,0.669,RI höher,ja
+Personenanzahl,Durchschnittliche Personenanzahl,2.332,1.931,.009,-0.313,VI höher,nein
+Personenanzahl,Maximale Personenanzahl,4.44,4.668,.527,0.059,RI höher,nein
+Personenanzahl,Anzahl erkannter Personenframes*,13.476,17.144,< .001,0.576,RI höher,ja
+Gesichtsorientierung,Mittlere vertikale Gesichtsausrichtung,6.948,6.226,.163,-0.129,VI höher,nein
+Gesichtsorientierung,Mittlere horizontale Gesichtsausrichtung,-0.718,-0.559,.855,0.012,RI höher,nein
+Gesichtsorientierung,Anzahl erkannter Gesichtsframes*,15.904,33.8,< .001,0.537,RI höher,ja

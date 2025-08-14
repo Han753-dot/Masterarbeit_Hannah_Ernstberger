@@ -1,0 +1,28 @@
+﻿Hypothese,Kategorie,Unterkategorie,Merkmal,Rohvariable,Technische Variable,n VI,M VI,n RI,M RI,U,p Mann-Whitney-U,t Welch,p Welch,Cohen's d (RI - VI),Richtung,Signifikant p < .05
+H5,Textuelle Merkmale,Textuelle Merkmale,Caption-Länge Zeichen,caption_length_chars,nein,249,126.871,248,125.798,28222.5,0.09746005342867821,0.107,0.9150593171519226,-0.01,VI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Caption-Länge Wörter,caption_length_words,nein,249,18.884,248,17.548,29366.5,0.34554447817066025,0.874,0.3825387333592648,-0.078,VI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Caption-Sentiment-Index,caption_sentiment_index,nein,249,0.457,248,0.406,31654.0,0.6271935778231936,1.121,0.2629454605341558,-0.101,VI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Kommentar-Sentiment-Index,comment_sentiment_index_mean,nein,174,0.295,192,0.503,11586.0,4.131575557888716e-07,-4.728,3.2486820716825457e-06,0.494,RI höher,*
+H5,Textuelle Merkmale,Textuelle Merkmale,Kommentar-Emotionsvielfalt,comment_emotion_unique_labels_mean,nein,174,1.944,192,2.011,15651.5,0.2971234992528964,-1.103,0.2707808581981133,0.115,RI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Topic-Vielfalt,topic_unique_labels,nein,174,5.299,192,4.51,18091.0,0.1669570602398197,2.043,0.04185918852622475,-0.216,VI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Anzahl analysierter Kommentare,analysed_comment_count,ja,174,61.339,192,33.193,18145.5,0.15260364382364855,1.496,0.13565689776443662,-0.16,VI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Median des Kommentar-Sentiment-Index,sentiment_index_median,ja,174,0.326,192,0.563,11877.0,1.7979229768201014e-06,-4.824,2.0805558267678253e-06,0.504,RI höher,*
+H5,Textuelle Merkmale,Textuelle Merkmale,Median der Kommentar-Emotionsvielfalt,emotion_unique_labels_median,ja,174,1.853,192,1.93,16014.5,0.46709562187961995,-1.04,0.2992489117833624,0.108,RI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Caption-Sentiment-Anteil negativ,caption_sentiment_negative,ja,249,0.09,248,0.124,29971.0,0.5720644188110677,-1.731,0.0841295672440992,0.155,RI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Caption-Sentiment-Anteil neutral,caption_sentiment_neutral,ja,249,0.363,248,0.346,32331.0,0.36357077334518484,0.658,0.5107814874223935,-0.059,VI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Caption-Sentiment-Anteil positiv,caption_sentiment_positive,ja,249,0.547,248,0.53,31381.0,0.7526509088602167,0.562,0.574504260276329,-0.05,VI höher,
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 0,topic_share__0,nein,174,0.098,192,0.035,20835.5,2.559773488122228e-06,4.031,7.439328463896799e-05,-0.435,VI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 1,topic_share__1,nein,174,0.117,192,0.236,12052.0,2.0340247839984216e-06,-4.389,1.5010249535621728e-05,0.454,RI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 2,topic_share__2,nein,174,0.116,192,0.002,24857.0,1.3745263004073155e-26,8.442,1.0369090703215735e-14,-0.927,VI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 3,topic_share__3,nein,174,0.076,192,0.096,16025.5,0.46273463884350163,-1.22,0.2232734542373808,0.127,RI höher,
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 4,topic_share__4,nein,174,0.071,192,0.095,16481.5,0.8096986275313673,-1.563,0.11899524612708741,0.161,RI höher,
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 5,topic_share__5,nein,174,0.018,192,0.118,12217.0,3.658486620666453e-08,-5.483,9.326470657226439e-08,0.556,RI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 6,topic_share__6,nein,174,0.054,192,0.017,20614.0,9.092708747730415e-07,3.258,0.0012815135445931574,-0.352,VI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 7,topic_share__7,nein,174,0.126,192,0.062,21312.0,8.031778835650505e-07,3.667,0.0002851222344426229,-0.388,VI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 8,topic_share__8,nein,174,0.002,192,0.025,14683.5,0.00035172083441922775,-3.934,0.00010961064995052141,0.396,RI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 9,topic_share__9,nein,174,0.126,192,0.137,16045.0,0.48347253182697536,-0.462,0.6444092330720113,0.048,RI höher,
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 10,topic_share__10,nein,174,0.0,192,0.008,15932.0,0.036341162606972635,-3.257,0.0013301012704658413,0.325,RI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 11,topic_share__11,nein,174,0.133,192,0.061,20371.5,8.964725263741135e-05,4.195,3.798371105762353e-05,-0.452,VI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 12,topic_share__12,nein,174,0.009,192,0.081,12966.0,2.6746680476678506e-06,-6.199,2.8815825153461317e-09,0.621,RI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 13,topic_share__13,nein,174,0.053,192,0.007,20793.0,1.1587335259384528e-08,4.389,1.864101663746253e-05,-0.479,VI höher,*
+Zusatzmetrik,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 14,topic_share__14,nein,174,0.001,192,0.021,15998.0,0.18736525594468934,-2.791,0.005785394094385153,0.278,RI höher,

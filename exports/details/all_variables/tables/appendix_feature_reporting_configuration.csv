@@ -1,0 +1,98 @@
+﻿Rohvariablenname,Tatsächlich verwendete Spalte,Kategorie,Unterkategorie,Merkmal,Hypothese,Haupttext,Anhang,Technisch/auswertungsbezogen,Reihenfolge,Datentyp,Im Datensatz verfügbar
+video_duration_seconds,video_duration_seconds,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Videolänge,H1,ja,ja,nein,101,numeric,ja
+cuts__cut_count,cuts__cut_count,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Cut Count,H1,ja,ja,nein,102,numeric,ja
+cuts__cuts_per_second,cuts__cuts_per_second,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Cuts pro Sekunde,H1,ja,ja,nein,103,numeric,ja
+seconds_per_cut,seconds_per_cut,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Sekunden pro Cut,H1,ja,ja,nein,104,numeric,ja
+scene_classification__scene_unique_labels,scene_classification__scene_unique_labels,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Szenenvielfalt,H1,ja,ja,nein,105,numeric,ja
+camera_distance__camera_distance_unique_labels,camera_distance__camera_distance_unique_labels,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Kameradistanzvariation,H1,ja,ja,nein,106,numeric,ja
+camera_stability__stability_index,camera_stability__stability_index,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Stabilitätsindex,H1,ja,ja,nein,107,numeric,ja
+cuts__frames_scanned,cuts__frames_scanned,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Analysierte Frames,H1,nein,ja,ja,151,numeric,ja
+cuts__video_fps,cuts__video_fps,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Bildrate des Videos,H1,nein,ja,ja,152,numeric,ja
+cuts__cuts_per_frame,cuts__cuts_per_frame,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Cuts pro Frame,H1,nein,ja,ja,153,numeric,ja
+cuts__video_duration_seconds_est,cuts__video_duration_seconds_est,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Geschätzte Videolänge,H1,nein,ja,ja,154,numeric,ja
+camera_distance__camera_distance_confidence,camera_distance__camera_distance_confidence,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Konfidenz der Kameradistanzklassifikation,H1,nein,ja,ja,155,numeric,ja
+camera_distance__processed_frame_count,camera_distance__processed_frame_count,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Ausgewertete Frames der Kameradistanzanalyse,H1,nein,ja,ja,156,numeric,ja
+scene_classification__scene_top1_confidence,scene_classification__scene_top1_confidence,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Konfidenz der Szenenklassifikation,H1,nein,ja,ja,157,numeric,ja
+camera_stability__optical_flow_magnitude_mean,camera_stability__optical_flow_magnitude_mean,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Durchschnittliche Bewegungsstärke,H1,nein,ja,ja,158,numeric,ja
+camera_stability__optical_flow_magnitude_std,camera_stability__optical_flow_magnitude_std,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Streuung der Bewegungsstärke,H1,nein,ja,ja,159,numeric,ja
+camera_stability__processed_frame_pairs,camera_stability__processed_frame_pairs,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Ausgewertete Frame-Paare,H1,nein,ja,ja,160,numeric,ja
+brightness_contrast__brightness_index,brightness_contrast__brightness_index,Bildtechnische Qualität,Bildtechnische Qualität,Helligkeit,H2,ja,ja,nein,201,numeric,ja
+brightness_contrast__contrast_index,brightness_contrast__contrast_index,Bildtechnische Qualität,Bildtechnische Qualität,Kontrast,H2,ja,ja,nein,202,numeric,ja
+saturation__saturation_index,saturation__saturation_index,Bildtechnische Qualität,Bildtechnische Qualität,Sättigung,H2,ja,ja,nein,203,numeric,ja
+visual_sharpness__sharpness_laplacian_mean,visual_sharpness__sharpness_laplacian_mean,Bildtechnische Qualität,Bildtechnische Qualität,Durchschnittliche Schärfe,H2,ja,ja,nein,204,numeric,ja
+visual_sharpness__sharpness_laplacian_std,visual_sharpness__sharpness_laplacian_std,Bildtechnische Qualität,Bildtechnische Qualität,Streuung der Bildschärfe,H2,ja,ja,nein,205,numeric,ja
+visual_sharpness__processed_frame_count,visual_sharpness__processed_frame_count,Bildtechnische Qualität,Bildtechnische Qualität,Ausgewertete Frames der Schärfeanalyse,H2,nein,ja,ja,251,numeric,ja
+aesthetic_quality__aesthetic_quality_score,aesthetic_quality__aesthetic_quality_score,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Aesthetic Score,H3,ja,ja,nein,301,numeric,ja
+beauty_scoring__beauty_score_mean,beauty_scoring__beauty_score_mean,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Beauty Score,H3,ja,ja,nein,302,numeric,ja
+beauty_scoring__beauty_score_std,beauty_scoring__beauty_score_std,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Beauty Score SD,H3,ja,ja,nein,303,numeric,ja
+skin_smoothness__skin_smoothness_highpass_index,skin_smoothness__skin_smoothness_highpass_index,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Hautglättung Highpass,H3,ja,ja,nein,304,numeric,ja
+skin_smoothness__skin_smoothness_dog_index,skin_smoothness__skin_smoothness_dog_index,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Hautglättung DoG,H3,ja,ja,nein,305,numeric,ja
+visual_filter__filter_strength_prob,visual_filter__filter_strength_prob,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Wahrscheinlichkeit für Filtereinsatz,H3,ja,ja,nein,306,numeric,ja
+visual_filter__filter_strength_std,visual_filter__filter_strength_std,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Streuung der Filterstärke,H3,ja,ja,nein,307,numeric,ja
+aesthetic_quality__aesthetic_quality_scored_frames,aesthetic_quality__aesthetic_quality_scored_frames,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Anzahl ästhetisch bewerteter Frames,H3,nein,ja,ja,351,numeric,ja
+beauty_scoring__beauty_detected_face_frames,beauty_scoring__beauty_detected_face_frames,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Anzahl bewertbarer Gesichtsframes,H3,nein,ja,ja,352,numeric,ja
+skin_smoothness__detected_skin_face_frames,skin_smoothness__detected_skin_face_frames,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Anzahl auswertbarer Hautframes,H3,nein,ja,ja,353,numeric,ja
+skin_smoothness__skin_selected_sigma,skin_smoothness__skin_selected_sigma,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Gewählter Sigma-Wert der Hautanalyse,H3,nein,ja,ja,354,numeric,ja
+skin_smoothness__skin_texture_laplacian_var,skin_smoothness__skin_texture_laplacian_var,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Feinstruktur der Hauttextur,H3,nein,ja,ja,355,numeric,ja
+skin_smoothness__skin_texture_highpass_var,skin_smoothness__skin_texture_highpass_var,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Hochfrequenztextur der Haut,H3,nein,ja,ja,356,numeric,ja
+skin_smoothness__skin_texture_dog_var,skin_smoothness__skin_texture_dog_var,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Texturkontrast der Haut,H3,nein,ja,ja,357,numeric,ja
+visual_filter__processed_frame_count,visual_filter__processed_frame_count,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Ausgewertete Frames der Filteranalyse,H3,nein,ja,ja,358,numeric,ja
+face_emotion__emotion_major_beit_confidence,face_emotion__emotion_major_beit_confidence,Emotion und Präsenz,Gesichtsemotion,Emotionssicherheit,H4,ja,ja,nein,401,numeric,ja
+face_emotion__emotion_unique_labels,face_emotion__emotion_unique_labels,Emotion und Präsenz,Gesichtsemotion,Emotionsvielfalt,H4,ja,ja,nein,402,numeric,ja
+face_emotion__emotion_major_beit_readable,face_emotion__emotion_major_beit_readable,Emotion und Präsenz,Gesichtsemotion,Dominante Gesichtsemotion,H4,ja,ja,nein,403,categorical,ja
+face_emotion__detected_emotion_frames,face_emotion__detected_emotion_frames,Emotion und Präsenz,Gesichtsemotion,Anzahl emotional auswertbarer Frames,H4,nein,ja,ja,404,numeric,ja
+body_pose__pose_confidence,body_pose__pose_confidence,Emotion und Präsenz,Körperpose,Pose Confidence,H4,ja,ja,nein,405,numeric,ja
+body_pose__pose_orientation,body_pose__pose_orientation,Emotion und Präsenz,Körperpose,Dominante Körperpose,H4,ja,ja,nein,406,categorical,ja
+body_pose__detected_pose_frames,body_pose__detected_pose_frames,Emotion und Präsenz,Körperpose,Anzahl erkannter Pose-Frames,H4,nein,ja,ja,407,numeric,ja
+structural_personen_anzahl__personen_anzahl,structural_personen_anzahl__personen_anzahl,Emotion und Präsenz,Personenanzahl,Personenanzahl,H4,ja,ja,nein,408,numeric,ja
+structural_personen_anzahl__personen_anzahl_max,structural_personen_anzahl__personen_anzahl_max,Emotion und Präsenz,Personenanzahl,Maximale Personenanzahl,H4,ja,ja,nein,409,numeric,ja
+structural_personen_anzahl__detected_person_frames,structural_personen_anzahl__detected_person_frames,Emotion und Präsenz,Personenanzahl,Anzahl erkannter Personenframes,H4,nein,ja,ja,410,numeric,ja
+angle_face_orientation__face_pitch_mean,angle_face_orientation__face_pitch_mean,Emotion und Präsenz,Gesichtsorientierung,Face Pitch,H4,ja,ja,nein,411,numeric,ja
+angle_face_orientation__face_yaw_mean,angle_face_orientation__face_yaw_mean,Emotion und Präsenz,Gesichtsorientierung,Face Yaw,H4,ja,ja,nein,412,numeric,ja
+angle_face_orientation__angle_face_orientation,angle_face_orientation__angle_face_orientation,Emotion und Präsenz,Gesichtsorientierung,Kategoriale Gesichtsorientierung,H4,ja,ja,nein,413,categorical,ja
+angle_face_orientation__detected_face_frames,angle_face_orientation__detected_face_frames,Emotion und Präsenz,Gesichtsorientierung,Anzahl erkannter Gesichtsframes,H4,nein,ja,ja,414,numeric,ja
+structural_personen_anzahl__sampled_frames_personen_anzahl,structural_personen_anzahl__sampled_frames_personen_anzahl,Emotion und Präsenz,Personenanzahl,Gesampelte Frames der Personenanalyse,H4,nein,ja,ja,455,numeric,ja
+caption_length_chars,caption_length_chars,Textuelle Merkmale,Textuelle Merkmale,Caption-Länge Zeichen,H5,ja,ja,nein,501,numeric,ja
+caption_length_words,caption_length_words,Textuelle Merkmale,Textuelle Merkmale,Caption-Länge Wörter,H5,ja,ja,nein,502,numeric,ja
+caption_sentiment_index,caption_sentiment_index,Textuelle Merkmale,Textuelle Merkmale,Caption-Sentiment-Index,H5,ja,ja,nein,503,numeric,ja
+comment_sentiment_index_mean,comment_sentiment_index_mean,Textuelle Merkmale,Textuelle Merkmale,Kommentar-Sentiment-Index,H5,ja,ja,nein,504,numeric,ja
+comment_emotion_unique_labels_mean,comment_emotion_unique_labels_mean,Textuelle Merkmale,Textuelle Merkmale,Kommentar-Emotionsvielfalt,H5,ja,ja,nein,505,numeric,ja
+topic_unique_labels,topic_unique_labels,Textuelle Merkmale,Textuelle Merkmale,Topic-Vielfalt,H5,ja,ja,nein,506,numeric,ja
+dominant_comment_emotion,dominant_comment_emotion,Textuelle Merkmale,Textuelle Merkmale,Dominante Kommentar-Emotion,H5,ja,ja,nein,507,categorical,ja
+dominant_topic_label,dominant_topic_label,Textuelle Merkmale,Textuelle Merkmale,Dominantes Kommentar-Topic,H5,ja,ja,nein,508,categorical,ja
+analysed_comment_count,analysed_comment_count,Textuelle Merkmale,Textuelle Merkmale,Anzahl analysierter Kommentare,H5,nein,ja,ja,550,numeric,ja
+sentiment_index_median,sentiment_index_median,Textuelle Merkmale,Textuelle Merkmale,Median des Kommentar-Sentiment-Index,H5,nein,ja,ja,551,numeric,ja
+comment_emotion_unique_labels_median,emotion_unique_labels_median,Textuelle Merkmale,Textuelle Merkmale,Median der Kommentar-Emotionsvielfalt,H5,nein,ja,ja,552,numeric,ja
+caption_sentiment_negative,caption_sentiment_negative,Textuelle Merkmale,Textuelle Merkmale,Caption-Sentiment-Anteil negativ,H5,nein,ja,ja,553,numeric,ja
+caption_sentiment_neutral,caption_sentiment_neutral,Textuelle Merkmale,Textuelle Merkmale,Caption-Sentiment-Anteil neutral,H5,nein,ja,ja,554,numeric,ja
+caption_sentiment_positive,caption_sentiment_positive,Textuelle Merkmale,Textuelle Merkmale,Caption-Sentiment-Anteil positiv,H5,nein,ja,ja,555,numeric,ja
+brightness_contrast__has_frames,brightness_contrast__has_frames,Bildtechnische Qualität,Bildtechnische Qualität,Has frames,Zusatzmetrik,nein,ja,ja,900,numeric,ja
+saturation__has_frames,saturation__has_frames,Bildtechnische Qualität,Bildtechnische Qualität,Has frames,Zusatzmetrik,nein,ja,ja,901,numeric,ja
+cuts__has_video,cuts__has_video,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Has video,Zusatzmetrik,nein,ja,ja,902,numeric,ja
+angle_face_orientation__has_frames,angle_face_orientation__has_frames,Emotion und Präsenz,Emotion und Präsenz,Has frames,Zusatzmetrik,nein,ja,ja,903,numeric,ja
+camera_distance__has_frames,camera_distance__has_frames,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Has frames,Zusatzmetrik,nein,ja,ja,904,numeric,ja
+scene_classification__has_frames,scene_classification__has_frames,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Has frames,Zusatzmetrik,nein,ja,ja,905,numeric,ja
+skin_smoothness__has_frames,skin_smoothness__has_frames,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Has frames,Zusatzmetrik,nein,ja,ja,906,numeric,ja
+aesthetic_quality__has_frames,aesthetic_quality__has_frames,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Has frames,Zusatzmetrik,nein,ja,ja,907,numeric,ja
+beauty_scoring__has_frames,beauty_scoring__has_frames,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Has frames,Zusatzmetrik,nein,ja,ja,908,numeric,ja
+face_emotion__has_frames,face_emotion__has_frames,Emotion und Präsenz,Emotion und Präsenz,Has frames,Zusatzmetrik,nein,ja,ja,909,numeric,ja
+body_pose__has_frames,body_pose__has_frames,Emotion und Präsenz,Emotion und Präsenz,Has frames,Zusatzmetrik,nein,ja,ja,910,numeric,ja
+structural_personen_anzahl__has_frames,structural_personen_anzahl__has_frames,Emotion und Präsenz,Emotion und Präsenz,Has frames,Zusatzmetrik,nein,ja,ja,911,numeric,ja
+visual_sharpness__has_frames,visual_sharpness__has_frames,Bildtechnische Qualität,Bildtechnische Qualität,Has frames,Zusatzmetrik,nein,ja,ja,912,numeric,ja
+camera_stability__has_video,camera_stability__has_video,Strukturale Inszenierung und visuelle Dynamik,Strukturale Inszenierung und visuelle Dynamik,Has video,Zusatzmetrik,nein,ja,ja,913,numeric,ja
+visual_filter__has_frames,visual_filter__has_frames,Ästhetik und visuelle Optimierung,Ästhetik und visuelle Optimierung,Has frames,Zusatzmetrik,nein,ja,ja,914,numeric,ja
+topic_share__0,topic_share__0,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 0,Zusatzmetrik,nein,ja,nein,915,numeric,ja
+topic_share__1,topic_share__1,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 1,Zusatzmetrik,nein,ja,nein,916,numeric,ja
+topic_share__2,topic_share__2,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 2,Zusatzmetrik,nein,ja,nein,917,numeric,ja
+topic_share__3,topic_share__3,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 3,Zusatzmetrik,nein,ja,nein,918,numeric,ja
+topic_share__4,topic_share__4,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 4,Zusatzmetrik,nein,ja,nein,919,numeric,ja
+topic_share__5,topic_share__5,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 5,Zusatzmetrik,nein,ja,nein,920,numeric,ja
+topic_share__6,topic_share__6,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 6,Zusatzmetrik,nein,ja,nein,921,numeric,ja
+topic_share__7,topic_share__7,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 7,Zusatzmetrik,nein,ja,nein,922,numeric,ja
+topic_share__8,topic_share__8,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 8,Zusatzmetrik,nein,ja,nein,923,numeric,ja
+topic_share__9,topic_share__9,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 9,Zusatzmetrik,nein,ja,nein,924,numeric,ja
+topic_share__10,topic_share__10,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 10,Zusatzmetrik,nein,ja,nein,925,numeric,ja
+topic_share__11,topic_share__11,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 11,Zusatzmetrik,nein,ja,nein,926,numeric,ja
+topic_share__12,topic_share__12,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 12,Zusatzmetrik,nein,ja,nein,927,numeric,ja
+topic_share__13,topic_share__13,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 13,Zusatzmetrik,nein,ja,nein,928,numeric,ja
+topic_share__14,topic_share__14,Textuelle Merkmale,Textuelle Merkmale,Topic-Anteil 14,Zusatzmetrik,nein,ja,nein,929,numeric,ja

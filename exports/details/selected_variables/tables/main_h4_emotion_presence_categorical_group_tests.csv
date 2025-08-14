@@ -1,0 +1,4 @@
+﻿Hypothese,Kategorie,Unterkategorie,Merkmal,Rohvariable,n,Chi-Quadrat,df,p,Cramér's V,Erwartete Zellen < 5,Anteil erwarteter Zellen < 5,Hinweis
+H4,Emotion und Präsenz,Gesichtsemotion,Dominante Gesichtsemotion,face_emotion__emotion_major_beit_readable,500,28.034,6,9.259083945153132e-05,0.237,2,0.143,Einzelne seltene Kategorien; Chi-Quadrat-Ergebnis vorsichtig interpretieren
+H4,Emotion und Präsenz,Körperpose,Dominante Körperpose,body_pose__pose_orientation,500,42.853,14,9.043858219476691e-05,0.293,12,0.4,Chi-Quadrat-Voraussetzung eingeschränkt; seltene Kategorien zusammenfassen oder robust prüfen
+H4,Emotion und Präsenz,Gesichtsorientierung,Kategoriale Gesichtsorientierung,angle_face_orientation__angle_face_orientation,500,7.346,5,0.1961610650535676,0.121,4,0.333,Chi-Quadrat-Voraussetzung eingeschränkt; seltene Kategorien zusammenfassen oder robust prüfen

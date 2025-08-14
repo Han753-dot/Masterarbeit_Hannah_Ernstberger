@@ -1,0 +1,13 @@
+﻿figure,position,video_id,type,example_label,source_figure,source_position,subtitle,frame_path
+abb_modellbewertung_gute_beispiele.png,1,7129589619099847982,VI,Schnittdynamik,abb_kategorie_cuts_v02.png,1,"Modell: cut_count=3 (sehr wenige Schnitte); cuts_s=0.40 (sehr ruhig kaum Schnitte); frames=225
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_cuts_v02_01_VI_7129589619099847982.jpeg
+abb_modellbewertung_gute_beispiele.png,2,7014189798315298053,VI,Kamerastabilität,abb_kategorie_camera_stability_v03.png,1,"Modell: stability_idx=1.00 (sehr stabil); flow_mean=0.00 (sehr ruhig kaum Bewegung); pairs=17
+Menschliche Bewertung des Modells: Stabilität=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_camera_stability_v03_01_VI_7014189798315298053.jpeg
+abb_modellbewertung_gute_beispiele.png,3,7467202100674497834,VI,Kameradistanz,abb_kategorie_camera_distance_v01.png,2,"Modell: distance=medCloseUp; p=0.76; frames=10
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_camera_distance_v01_02_VI_7467202100674497834.jpeg
+abb_modellbewertung_gute_beispiele.png,4,7565209380782755075,VI,Farbsättigung,abb_kategorie_saturation_v01.png,1,"Modell: saturation_idx=62.61 (sehr geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_saturation_v01_01_VI_7565209380782755075.jpeg
+abb_modellbewertung_gute_beispiele.png,5,7491097821064482070,RI,Schärfe,abb_kategorie_sharpness_v05.png,1,"Modell: laplacian_mean=1258.75 (eher scharf)
+Menschliche Bewertung des Modells: Schärfe=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_sharpness_v05_01_RI_7491097821064482070.jpeg
+abb_modellbewertung_gute_beispiele.png,6,7491097821064482070,RI,Gesichtsausrichtung,abb_kategorie_face_orientation_v03.png,1,"Modell: orientation=Frontal; pitch=10.45; yaw=-0.66
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_face_orientation_v03_01_RI_7491097821064482070.jpeg

@@ -1,0 +1,733 @@
+﻿figure,position,video_id,type,title,subtitle,note,group
+abb_datasetbeispiele_vi_ri_v01.png,1,7519336027085999415,VI,VI 1 | VI | id=999415,"Modell: scene=beauty; p=0.96; scene_n=1
+Modell: stability_idx=0.83; cuts_s=0.00
+Modell: cam=medShot; p=0.98",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v01.png,2,7500937479499926806,VI,VI 2 | VI | id=926806,"Modell: scene=stage/indoor; p=0.85; scene_n=1
+Modell: stability_idx=0.85; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.61",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v01.png,3,7524539648954207496,VI,VI 3 | VI | id=207496,"Modell: scene=playroom; p=0.70; scene_n=9
+Modell: stability_idx=0.74; cuts_s=0.04
+Modell: cam=medCloseUp; p=0.65",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v01.png,4,7512643920539700526,RI,RI 1 | RI | id=700526,"Modell: scene=beauty; p=0.95; scene_n=1
+Modell: stability_idx=0.79; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.80",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v01.png,5,7571206423640575246,RI,RI 2 | RI | id=575246,"Modell: scene=airplane; p=0.93; scene_n=1
+Modell: stability_idx=0.98; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.65",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v01.png,6,7520049050889080119,RI,RI 3 | RI | id=080119,"Modell: scene=park; p=0.76; scene_n=1
+Modell: stability_idx=0.95; cuts_s=0.02
+Modell: cam=medShot; p=0.91",Datensatzbeispiel,scene
+abb_human_evaluation_modellplausibilitaet_v01.png,1,7521175951602945293,VI,Szene | VI | id=945293,"Modell: scene=beauty; p=0.52; scene_n=1
+Menschliche Bewertung des Modells: Szene=sehr gut passend (5.00/5 Likert-Skala; n=2)",scene_variant_1,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v01.png,2,7467202100674497834,VI,Kameradistanz | VI | id=497834,"Modell: distance=medCloseUp; p=0.76; frames=10
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_1,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v01.png,3,7586737085831286071,RI,Pose | RI | id=286071,"Modell: pose=running; p=0.38; pose_frames=30
+Menschliche Bewertung des Modells: Pose=sehr schlecht passend (1.00/5 Likert-Skala; n=1)",body_pose_variant_1,human_evaluation_overview
+abb_visuelle_settings_szenen_v01.png,1,7500937479499926806,VI,VI | stage/indoor | VI | id=926806,"Modell: scene=stage/indoor; p=0.85; scene_n=1
+Modell: stability_idx=0.85; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.61",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v01.png,2,7524539648954207496,VI,VI | playroom | VI | id=207496,"Modell: scene=playroom; p=0.70; scene_n=9
+Modell: stability_idx=0.74; cuts_s=0.04
+Modell: cam=medCloseUp; p=0.65",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v01.png,3,7519336027085999415,VI,VI | beauty_salon | VI | id=999415,"Modell: scene=beauty; p=0.96; scene_n=1
+Modell: stability_idx=0.83; cuts_s=0.00
+Modell: cam=medShot; p=0.98",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v01.png,4,7571206423640575246,RI,RI | airplane_cabin | RI | id=575246,"Modell: scene=airplane; p=0.93; scene_n=1
+Modell: stability_idx=0.98; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.65",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v01.png,5,7500687358904290603,RI,RI | car_interior | RI | id=290603,"Modell: scene=car; p=0.97; scene_n=7
+Modell: stability_idx=0.70; cuts_s=0.09
+Modell: cam=medCloseUp; p=0.61",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v01.png,6,7520049050889080119,RI,RI | park | RI | id=080119,"Modell: scene=park; p=0.76; scene_n=1
+Modell: stability_idx=0.95; cuts_s=0.02
+Modell: cam=medShot; p=0.91",Szenenbeispiel,scene
+abb_kategorie_scene_v01.png,1,7521175951602945293,VI,Szene | VI | id=945293,"Modell: scene=beauty; p=0.52; scene_n=1
+Menschliche Bewertung des Modells: Szene=sehr gut passend (5.00/5 Likert-Skala; n=2)",scene_variant_1,scene
+abb_kategorie_scene_v01.png,2,7561901530916343095,RI,Szene | RI | id=343095,"Modell: scene=art-studio; p=0.21; scene_n=7
+Menschliche Bewertung des Modells: Szene=gut passend (4.00/5 Likert-Skala; n=2)",scene_variant_1,scene
+abb_kategorie_scene_v01.png,3,7577558634071133454,RI,Szene | RI | id=133454,"Modell: scene=ice-cream-parlor; p=0.45; scene_n=2
+Menschliche Bewertung des Modells: Szene=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",scene_variant_1,scene
+abb_kategorie_camera_distance_v01.png,1,7037583058626759941,VI,Kameradistanz | VI | id=759941,"Modell: distance=closeUp; p=0.66; frames=10
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_1,camera_distance
+abb_kategorie_camera_distance_v01.png,2,7467202100674497834,VI,Kameradistanz | VI | id=497834,"Modell: distance=medCloseUp; p=0.76; frames=10
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_1,camera_distance
+abb_kategorie_camera_distance_v01.png,3,7452207597907676424,VI,Kameradistanz | VI | id=676424,"Modell: distance=medShot; p=0.89; frames=33
+Menschliche Bewertung des Modells: Kameradistanz=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",camera_distance_variant_1,camera_distance
+abb_kategorie_camera_stability_v01.png,1,7037583058626759941,VI,Stabilität | VI | id=759941,"Modell: stability_idx=0.82 (eher stabil); flow_mean=0.00 (sehr ruhig kaum Bewegung); pairs=26
+Menschliche Bewertung des Modells: Stabilität=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_stability_variant_1,camera_stability
+abb_kategorie_camera_stability_v01.png,2,7586737085831286071,RI,Stabilität | RI | id=286071,"Modell: stability_idx=0.48 (eher instabil); flow_mean=0.01 (eher ruhig); pairs=80
+Menschliche Bewertung des Modells: Stabilität=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",camera_stability_variant_1,camera_stability
+abb_kategorie_camera_stability_v01.png,3,7561901530916343095,RI,Stabilität | RI | id=343095,"Modell: stability_idx=0.28 (sehr instabil); flow_mean=0.03 (eher bewegt); pairs=46
+Menschliche Bewertung des Modells: Stabilität=gut passend (4.00/5 Likert-Skala; n=2)",camera_stability_variant_1,camera_stability
+abb_kategorie_cuts_v01.png,1,7037583058626759941,VI,Schnitte/Dynamik | VI | id=759941,"Modell: cut_count=1 (sehr wenige Schnitte); cuts_s=0.11 (sehr ruhig kaum Schnitte); frames=458
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_1,cuts
+abb_kategorie_cuts_v01.png,2,7467202100674497834,VI,Schnitte/Dynamik | VI | id=497834,"Modell: cut_count=0 (sehr wenige Schnitte); cuts_s=0.00 (sehr ruhig kaum Schnitte); frames=272
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_1,cuts
+abb_kategorie_cuts_v01.png,3,7561901530916343095,RI,Schnitte/Dynamik | RI | id=343095,"Modell: cut_count=19 (sehr wenige Schnitte); cuts_s=1.19 (sehr ruhig kaum Schnitte); frames=461
+Menschliche Bewertung des Modells: Schnitte/Dynamik=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",cuts_variant_1,cuts
+abb_kategorie_face_emotion_v01.png,1,7561901530916343095,RI,Emotion | RI | id=343095,"Modell: emotion=Neutral; p=0.62; face_frames=16
+Menschliche Bewertung des Modells: Emotion=sehr gut passend (5.00/5 Likert-Skala; n=1)",face_emotion_variant_1,face_emotion
+abb_kategorie_face_emotion_v01.png,2,7516376664570416426,VI,Emotion | VI | id=416426,"Modell: emotion=Surprise; p=0.86; face_frames=8
+Menschliche Bewertung des Modells: Emotion=teilweise passend (3.00/5 Likert-Skala; n=2)",face_emotion_variant_1,face_emotion
+abb_kategorie_face_emotion_v01.png,3,7027954993026190598,VI,Emotion | VI | id=190598,"Modell: emotion=Happy; p=0.64; face_frames=10
+Menschliche Bewertung des Modells: Emotion=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",face_emotion_variant_1,face_emotion
+abb_kategorie_body_pose_v01.png,1,7129589619099847982,VI,Pose | VI | id=847982,"Modell: pose=laughing; p=0.50; pose_frames=8
+Menschliche Bewertung des Modells: Pose=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",body_pose_variant_1,body_pose
+abb_kategorie_body_pose_v01.png,2,7037583058626759941,VI,Pose | VI | id=759941,"Modell: pose=listening-to-music; p=0.41; pose_frames=10
+Menschliche Bewertung des Modells: Pose=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",body_pose_variant_1,body_pose
+abb_kategorie_body_pose_v01.png,3,7586737085831286071,RI,Pose | RI | id=286071,"Modell: pose=running; p=0.38; pose_frames=30
+Menschliche Bewertung des Modells: Pose=sehr schlecht passend (1.00/5 Likert-Skala; n=1)",body_pose_variant_1,body_pose
+abb_kategorie_beauty_score_v01.png,1,7037583058626759941,VI,Beauty-Score | VI | id=759941,"Modell: beauty_mean=36.08 (mittlerer Beauty-Score); sd=3.08; face_frames=9
+Menschliche Bewertung des Modells: Beauty-Score=gut passend (4.00/5 Likert-Skala; n=2)",beauty_score_variant_1,beauty_score
+abb_kategorie_beauty_score_v01.png,2,7565897317576871190,VI,Beauty-Score | VI | id=871190,"Modell: beauty_mean=41.35 (eher hoher Beauty-Score); sd=9.67; face_frames=6
+Menschliche Bewertung des Modells: Beauty-Score=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",beauty_score_variant_1,beauty_score
+abb_kategorie_beauty_score_v01.png,3,7244163083097132334,RI,Beauty-Score | RI | id=132334,"Modell: beauty_mean=24.66 (sehr niedriger Beauty-Score); sd=5.39; face_frames=8
+Menschliche Bewertung des Modells: Beauty-Score=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",beauty_score_variant_1,beauty_score
+abb_kategorie_skin_smoothness_v01.png,1,7577558634071133454,RI,Hautglättung | RI | id=133454,"Modell: highpass_idx=0.05 (mittel glatte Haut); dog_idx=0.12 (mittel glatte Haut); face_frames=11
+Menschliche Bewertung des Modells: Hautglättung=gut passend (4.00/5 Likert-Skala; n=2)",skin_smoothness_variant_1,skin_smoothness
+abb_kategorie_skin_smoothness_v01.png,2,7452207597907676424,VI,Hautglättung | VI | id=676424,"Modell: highpass_idx=0.02 (sehr natürliche wenig geglättete Haut); dog_idx=0.05 (eher wenig geglättete Haut); face_frames=33
+Menschliche Bewertung des Modells: Hautglättung=teilweise passend (3.00/5 Likert-Skala; n=2)",skin_smoothness_variant_1,skin_smoothness
+abb_kategorie_skin_smoothness_v01.png,3,7228975173284744491,RI,Hautglättung | RI | id=744491,"Modell: highpass_idx=0.09 (sehr glatte stark geglättete Haut); dog_idx=0.19 (sehr glatte stark geglättete Haut); face_frames=9
+Menschliche Bewertung des Modells: Hautglättung=sehr gut passend (5.00/5 Likert-Skala; n=2)",skin_smoothness_variant_1,skin_smoothness
+abb_kategorie_face_orientation_v01.png,1,7467202100674497834,VI,Gesichtsorientierung | VI | id=497834,"Modell: orientation=Frontal; pitch=9.19; yaw=8.57
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_orientation_variant_1,face_orientation
+abb_kategorie_face_orientation_v01.png,2,7561901530916343095,RI,Gesichtsorientierung | RI | id=343095,"Modell: orientation=Left; pitch=8.45; yaw=-60.00
+Menschliche Bewertung des Modells: Gesichtsorientierung=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",face_orientation_variant_1,face_orientation
+abb_kategorie_face_orientation_v01.png,3,7037583058626759941,VI,Gesichtsorientierung | VI | id=759941,"Modell: orientation=Down; pitch=12.59; yaw=-1.18
+Menschliche Bewertung des Modells: Gesichtsorientierung=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",face_orientation_variant_1,face_orientation
+abb_kategorie_brightness_v01.png,1,7565209380782755075,VI,Helligkeit | VI | id=755075,"Modell: brightness_idx=145.24 (eher hell)
+Menschliche Bewertung des Modells: Helligkeit=sehr gut passend (5.00/5 Likert-Skala; n=2)",brightness_variant_1,brightness
+abb_kategorie_brightness_v01.png,2,6988896764241693958,VI,Helligkeit | VI | id=693958,"Modell: brightness_idx=125.91 (mittel hell)
+Menschliche Bewertung des Modells: Helligkeit=gut passend (4.00/5 Likert-Skala; n=2)",brightness_variant_1,brightness
+abb_kategorie_brightness_v01.png,3,7037583058626759941,VI,Helligkeit | VI | id=759941,"Modell: brightness_idx=119.19 (mittel hell)
+Menschliche Bewertung des Modells: Helligkeit=gut passend (4.00/5 Likert-Skala; n=2)",brightness_variant_1,brightness
+abb_kategorie_contrast_v01.png,1,7512643920539700526,RI,Kontrast | RI | id=700526,"Modell: contrast_idx=61.24 (mittlerer Kontrast)
+Menschliche Bewertung des Modells: Kontrast=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",contrast_variant_1,contrast
+abb_kategorie_contrast_v01.png,2,6988896764241693958,VI,Kontrast | VI | id=693958,"Modell: contrast_idx=56.06 (mittlerer Kontrast)
+Menschliche Bewertung des Modells: Kontrast=gut passend (4.00/5 Likert-Skala; n=2)",contrast_variant_1,contrast
+abb_kategorie_contrast_v01.png,3,7516241082754010414,VI,Kontrast | VI | id=010414,"Modell: contrast_idx=81.31 (sehr hoher Kontrast)
+Menschliche Bewertung des Modells: Kontrast=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",contrast_variant_1,contrast
+abb_kategorie_saturation_v01.png,1,7565209380782755075,VI,Sättigung | VI | id=755075,"Modell: saturation_idx=62.61 (sehr geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=sehr gut passend (5.00/5 Likert-Skala; n=2)",saturation_variant_1,saturation
+abb_kategorie_saturation_v01.png,2,7516241082754010414,VI,Sättigung | VI | id=010414,"Modell: saturation_idx=74.19 (eher geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=gut passend (4.00/5 Likert-Skala; n=2)",saturation_variant_1,saturation
+abb_kategorie_saturation_v01.png,3,6988896764241693958,VI,Sättigung | VI | id=693958,"Modell: saturation_idx=74.17 (eher geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",saturation_variant_1,saturation
+abb_kategorie_sharpness_v01.png,1,7586737085831286071,RI,Schärfe | RI | id=286071,"Modell: laplacian_mean=1594.10 (eher scharf)
+Menschliche Bewertung des Modells: Schärfe=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",sharpness_variant_1,sharpness
+abb_kategorie_sharpness_v01.png,2,7452207597907676424,VI,Schärfe | VI | id=676424,"Modell: laplacian_mean=552.28 (eher unscharf)
+Menschliche Bewertung des Modells: Schärfe=gut passend (4.00/5 Likert-Skala; n=2)",sharpness_variant_1,sharpness
+abb_kategorie_sharpness_v01.png,3,6988896764241693958,VI,Schärfe | VI | id=693958,"Modell: laplacian_mean=350.99 (sehr unscharf)
+Menschliche Bewertung des Modells: Schärfe=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",sharpness_variant_1,sharpness
+abb_kategorie_aesthetic_quality_v01.png,1,7564790156624973069,RI,Ästhetik | RI | id=973069,"Modell: aesthetic_score=4.21 (eher niedrige visuelle qualitaet); frames=9
+Menschliche Bewertung des Modells: Ästhetik=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",aesthetic_quality_variant_1,aesthetic_quality
+abb_kategorie_aesthetic_quality_v01.png,2,7586737085831286071,RI,Ästhetik | RI | id=286071,"Modell: aesthetic_score=3.81 (sehr niedrige visuelle qualitaet); frames=30
+Menschliche Bewertung des Modells: Ästhetik=gut passend (4.00/5 Likert-Skala; n=2)",aesthetic_quality_variant_1,aesthetic_quality
+abb_kategorie_aesthetic_quality_v01.png,3,7452207597907676424,VI,Ästhetik | VI | id=676424,"Modell: aesthetic_score=3.65 (sehr niedrige visuelle qualitaet); frames=33
+Menschliche Bewertung des Modells: Ästhetik=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",aesthetic_quality_variant_1,aesthetic_quality
+abb_kategorie_filter_strength_v01.png,1,6988896764241693958,VI,Filterstärke | VI | id=693958,"Modell: filter=stark (sehr starke Filterwirkung); prob=0.99; frames=12
+Menschliche Bewertung des Modells: Filterstärke=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",filter_strength_variant_1,filter_strength
+abb_kategorie_filter_strength_v01.png,2,7037583058626759941,VI,Filterstärke | VI | id=759941,"Modell: filter=stark (sehr starke Filterwirkung); prob=1.00; frames=10
+Menschliche Bewertung des Modells: Filterstärke=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",filter_strength_variant_1,filter_strength
+abb_kategorie_filter_strength_v01.png,3,7561901530916343095,RI,Filterstärke | RI | id=343095,"Modell: filter=stark (sehr leichte Filterwirkung); prob=0.96; frames=12
+Menschliche Bewertung des Modells: Filterstärke=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",filter_strength_variant_1,filter_strength
+abb_kategorie_personen_anzahl_v01.png,1,7565209380782755075,VI,Personenzahl | VI | id=755075,"Modell: persons=1.00; max=1; frames=8
+Menschliche Bewertung des Modells: Personenzahl=sehr gut passend (5.00/5 Likert-Skala; n=2)",personen_anzahl_variant_1,personen_anzahl
+abb_kategorie_personen_anzahl_v01.png,2,7452207597907676424,VI,Personenzahl | VI | id=676424,"Modell: persons=3.92; max=7; frames=24
+Menschliche Bewertung des Modells: Personenzahl=gut passend (4.00/5 Likert-Skala; n=2)",personen_anzahl_variant_1,personen_anzahl
+abb_kategorie_personen_anzahl_v01.png,3,7467202100674497834,VI,Personenzahl | VI | id=497834,"Modell: persons=1.50; max=3; frames=10
+Menschliche Bewertung des Modells: Personenzahl=gut passend (4.00/5 Likert-Skala; n=2)",personen_anzahl_variant_1,personen_anzahl
+abb_datasetbeispiele_vi_ri.png,1,7519336027085999415,VI,VI 1 | VI | id=999415,"Modell: scene=beauty; p=0.96; scene_n=1
+Modell: stability_idx=0.83; cuts_s=0.00
+Modell: cam=medShot; p=0.98",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri.png,2,7500937479499926806,VI,VI 2 | VI | id=926806,"Modell: scene=stage/indoor; p=0.85; scene_n=1
+Modell: stability_idx=0.85; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.61",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri.png,3,7524539648954207496,VI,VI 3 | VI | id=207496,"Modell: scene=playroom; p=0.70; scene_n=9
+Modell: stability_idx=0.74; cuts_s=0.04
+Modell: cam=medCloseUp; p=0.65",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri.png,4,7512643920539700526,RI,RI 1 | RI | id=700526,"Modell: scene=beauty; p=0.95; scene_n=1
+Modell: stability_idx=0.79; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.80",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri.png,5,7571206423640575246,RI,RI 2 | RI | id=575246,"Modell: scene=airplane; p=0.93; scene_n=1
+Modell: stability_idx=0.98; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.65",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri.png,6,7520049050889080119,RI,RI 3 | RI | id=080119,"Modell: scene=park; p=0.76; scene_n=1
+Modell: stability_idx=0.95; cuts_s=0.02
+Modell: cam=medShot; p=0.91",Datensatzbeispiel,scene
+abb_human_evaluation_modellplausibilitaet.png,1,7521175951602945293,VI,Szene | VI | id=945293,"Modell: scene=beauty; p=0.52; scene_n=1
+Menschliche Bewertung des Modells: Szene=sehr gut passend (5.00/5 Likert-Skala; n=2)",scene_variant_1,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet.png,2,7467202100674497834,VI,Kameradistanz | VI | id=497834,"Modell: distance=medCloseUp; p=0.76; frames=10
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_1,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet.png,3,7586737085831286071,RI,Pose | RI | id=286071,"Modell: pose=running; p=0.38; pose_frames=30
+Menschliche Bewertung des Modells: Pose=sehr schlecht passend (1.00/5 Likert-Skala; n=1)",body_pose_variant_1,human_evaluation_overview
+abb_visuelle_settings_szenen.png,1,7500937479499926806,VI,VI | stage/indoor | VI | id=926806,"Modell: scene=stage/indoor; p=0.85; scene_n=1
+Modell: stability_idx=0.85; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.61",Szenenbeispiel,scene
+abb_visuelle_settings_szenen.png,2,7524539648954207496,VI,VI | playroom | VI | id=207496,"Modell: scene=playroom; p=0.70; scene_n=9
+Modell: stability_idx=0.74; cuts_s=0.04
+Modell: cam=medCloseUp; p=0.65",Szenenbeispiel,scene
+abb_visuelle_settings_szenen.png,3,7519336027085999415,VI,VI | beauty_salon | VI | id=999415,"Modell: scene=beauty; p=0.96; scene_n=1
+Modell: stability_idx=0.83; cuts_s=0.00
+Modell: cam=medShot; p=0.98",Szenenbeispiel,scene
+abb_visuelle_settings_szenen.png,4,7571206423640575246,RI,RI | airplane_cabin | RI | id=575246,"Modell: scene=airplane; p=0.93; scene_n=1
+Modell: stability_idx=0.98; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.65",Szenenbeispiel,scene
+abb_visuelle_settings_szenen.png,5,7500687358904290603,RI,RI | car_interior | RI | id=290603,"Modell: scene=car; p=0.97; scene_n=7
+Modell: stability_idx=0.70; cuts_s=0.09
+Modell: cam=medCloseUp; p=0.61",Szenenbeispiel,scene
+abb_visuelle_settings_szenen.png,6,7520049050889080119,RI,RI | park | RI | id=080119,"Modell: scene=park; p=0.76; scene_n=1
+Modell: stability_idx=0.95; cuts_s=0.02
+Modell: cam=medShot; p=0.91",Szenenbeispiel,scene
+abb_datasetbeispiele_vi_ri_v02.png,1,7462088004493118766,VI,VI 1 | VI | id=118766,"Modell: scene=beauty; p=0.92; scene_n=1
+Modell: stability_idx=0.91; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.76",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v02.png,2,7520672503920971030,VI,VI 2 | VI | id=971030,"Modell: scene=stage/indoor; p=0.84; scene_n=1
+Modell: stability_idx=0.84; cuts_s=0.00
+Modell: cam=medShot; p=0.57",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v02.png,3,6929732205350538497,VI,VI 3 | VI | id=538497,"Modell: scene=playroom; p=0.57; scene_n=3
+Modell: stability_idx=0.66; cuts_s=0.21
+Modell: cam=medShot; p=0.85",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v02.png,4,7577086972745813262,RI,RI 1 | RI | id=813262,"Modell: scene=beauty; p=0.84; scene_n=1
+Modell: stability_idx=0.61; cuts_s=0.02
+Modell: cam=closeUp; p=0.59",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v02.png,5,7204832049985834283,RI,RI 2 | RI | id=834283,"Modell: scene=airplane; p=0.81; scene_n=19
+Modell: stability_idx=0.29; cuts_s=1.14
+Modell: cam=medShot; p=0.90",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v02.png,6,7522645318085643575,RI,RI 3 | RI | id=643575,"Modell: scene=park; p=0.52; scene_n=1
+Modell: stability_idx=0.96; cuts_s=0.01
+Modell: cam=medShot; p=0.59",Datensatzbeispiel,scene
+abb_human_evaluation_modellplausibilitaet_v02.png,1,7565209380782755075,VI,Emotion | VI | id=755075,"Modell: emotion=Happy; p=0.49; face_frames=8
+Menschliche Bewertung des Modells: Emotion=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_emotion_variant_2,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v02.png,2,7550501572598320439,RI,Beauty-Score | RI | id=320439,"Modell: beauty_mean=53.10 (sehr hoher Beauty-Score); sd=2.56; face_frames=14
+Menschliche Bewertung des Modells: Beauty-Score=gut passend (4.00/5 Likert-Skala; n=2)",beauty_score_variant_2,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v02.png,3,7228975173284744491,RI,Hautglättung | RI | id=744491,"Modell: highpass_idx=0.09 (sehr glatte stark geglättete Haut); dog_idx=0.19 (sehr glatte stark geglättete Haut); face_frames=9
+Menschliche Bewertung des Modells: Hautglättung=sehr gut passend (5.00/5 Likert-Skala; n=2)",skin_smoothness_variant_2,human_evaluation_overview
+abb_visuelle_settings_szenen_v02.png,1,7520672503920971030,VI,VI | stage/indoor | VI | id=971030,"Modell: scene=stage/indoor; p=0.84; scene_n=1
+Modell: stability_idx=0.84; cuts_s=0.00
+Modell: cam=medShot; p=0.57",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v02.png,2,6929732205350538497,VI,VI | playroom | VI | id=538497,"Modell: scene=playroom; p=0.57; scene_n=3
+Modell: stability_idx=0.66; cuts_s=0.21
+Modell: cam=medShot; p=0.85",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v02.png,3,7462088004493118766,VI,VI | beauty_salon | VI | id=118766,"Modell: scene=beauty; p=0.92; scene_n=1
+Modell: stability_idx=0.91; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.76",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v02.png,4,7204832049985834283,RI,RI | airplane_cabin | RI | id=834283,"Modell: scene=airplane; p=0.81; scene_n=19
+Modell: stability_idx=0.29; cuts_s=1.14
+Modell: cam=medShot; p=0.90",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v02.png,5,7555600275784928525,RI,RI | car_interior | RI | id=928525,"Modell: scene=car; p=0.78; scene_n=2
+Modell: stability_idx=0.96; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.57",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v02.png,6,7522645318085643575,RI,RI | park | RI | id=643575,"Modell: scene=park; p=0.52; scene_n=1
+Modell: stability_idx=0.96; cuts_s=0.01
+Modell: cam=medShot; p=0.59",Szenenbeispiel,scene
+abb_kategorie_scene_v02.png,1,7516241082754010414,VI,Szene | VI | id=010414,"Modell: scene=desert/sand; p=0.34; scene_n=3
+Menschliche Bewertung des Modells: Szene=sehr gut passend (5.00/5 Likert-Skala; n=2)",scene_variant_2,scene
+abb_kategorie_scene_v02.png,2,7452207597907676424,VI,Szene | VI | id=676424,"Modell: scene=playroom; p=0.32; scene_n=11
+Menschliche Bewertung des Modells: Szene=teilweise passend (3.00/5 Likert-Skala; n=2)",scene_variant_2,scene
+abb_kategorie_scene_v02.png,3,7129589619099847982,VI,Szene | VI | id=847982,"Modell: scene=beauty; p=0.35; scene_n=4
+Menschliche Bewertung des Modells: Szene=sehr schlecht passend (1.00/5 Likert-Skala; n=2)",scene_variant_2,scene
+abb_kategorie_camera_distance_v02.png,1,7467202100674497834,VI,Kameradistanz | VI | id=497834,"Modell: distance=medCloseUp; p=0.76; frames=10
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_2,camera_distance
+abb_kategorie_camera_distance_v02.png,2,7565209380782755075,VI,Kameradistanz | VI | id=755075,"Modell: distance=medShot; p=0.97; frames=8
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_2,camera_distance
+abb_kategorie_camera_distance_v02.png,3,7564790156624973069,RI,Kameradistanz | RI | id=973069,"Modell: distance=extremeLong; p=0.81; frames=9
+Menschliche Bewertung des Modells: Kameradistanz=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",camera_distance_variant_2,camera_distance
+abb_kategorie_camera_stability_v02.png,1,7467202100674497834,VI,Stabilität | VI | id=497834,"Modell: stability_idx=0.85 (sehr stabil); flow_mean=0.00 (sehr ruhig kaum Bewegung); pairs=27
+Menschliche Bewertung des Modells: Stabilität=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_stability_variant_2,camera_stability
+abb_kategorie_camera_stability_v02.png,2,7516241082754010414,VI,Stabilität | VI | id=010414,"Modell: stability_idx=0.29 (sehr instabil); flow_mean=0.02 (eher bewegt); pairs=23
+Menschliche Bewertung des Modells: Stabilität=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",camera_stability_variant_2,camera_stability
+abb_kategorie_camera_stability_v02.png,3,7577558634071133454,RI,Stabilität | RI | id=133454,"Modell: stability_idx=0.61 (mittel stabil); flow_mean=0.01 (sehr ruhig kaum Bewegung); pairs=31
+Menschliche Bewertung des Modells: Stabilität=teilweise passend (3.00/5 Likert-Skala; n=2)",camera_stability_variant_2,camera_stability
+abb_kategorie_cuts_v02.png,1,7129589619099847982,VI,Schnitte/Dynamik | VI | id=847982,"Modell: cut_count=3 (sehr wenige Schnitte); cuts_s=0.40 (sehr ruhig kaum Schnitte); frames=225
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_2,cuts
+abb_kategorie_cuts_v02.png,2,7014189798315298053,VI,Schnitte/Dynamik | VI | id=298053,"Modell: cut_count=0 (sehr wenige Schnitte); cuts_s=0.00 (sehr ruhig kaum Schnitte); frames=177
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_2,cuts
+abb_kategorie_cuts_v02.png,3,7586737085831286071,RI,Schnitte/Dynamik | RI | id=286071,"Modell: cut_count=249 (sehr viele Schnitte); cuts_s=8.45 (sehr dynamisch viele schnelle Schnitte); frames=884
+Menschliche Bewertung des Modells: Schnitte/Dynamik=eher schlecht passend (2.00/5 Likert-Skala; n=2)",cuts_variant_2,cuts
+abb_kategorie_face_emotion_v02.png,1,7565209380782755075,VI,Emotion | VI | id=755075,"Modell: emotion=Happy; p=0.49; face_frames=8
+Menschliche Bewertung des Modells: Emotion=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_emotion_variant_2,face_emotion
+abb_kategorie_face_emotion_v02.png,2,7516241082754010414,VI,Emotion | VI | id=010414,"Modell: emotion=Neutral; p=0.63; face_frames=8
+Menschliche Bewertung des Modells: Emotion=gut passend (4.00/5 Likert-Skala; n=2)",face_emotion_variant_2,face_emotion
+abb_kategorie_face_emotion_v02.png,3,7538416839257230614,VI,Emotion | VI | id=230614,"Modell: emotion=Surprise; p=0.51; face_frames=19
+Menschliche Bewertung des Modells: Emotion=teilweise passend (3.00/5 Likert-Skala; n=2)",face_emotion_variant_2,face_emotion
+abb_kategorie_body_pose_v02.png,1,7027954993026190598,VI,Pose | VI | id=190598,"Modell: pose=laughing; p=0.82; pose_frames=10
+Menschliche Bewertung des Modells: Pose=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",body_pose_variant_2,body_pose
+abb_kategorie_body_pose_v02.png,2,7516241082754010414,VI,Pose | VI | id=010414,"Modell: pose=listening-to-music; p=0.62; pose_frames=8
+Menschliche Bewertung des Modells: Pose=teilweise passend (3.00/5 Likert-Skala; n=2)",body_pose_variant_2,body_pose
+abb_kategorie_body_pose_v02.png,3,7521175951602945293,VI,Pose | VI | id=945293,"Modell: pose=eating; p=0.52; pose_frames=8
+Menschliche Bewertung des Modells: Pose=zwischen sehr schlecht passend und eher schlecht passend (1.50/5 Likert-Skala; n=2)",body_pose_variant_2,body_pose
+abb_kategorie_beauty_score_v02.png,1,7027954993026190598,VI,Beauty-Score | VI | id=190598,"Modell: beauty_mean=34.77 (mittlerer Beauty-Score); sd=7.44; face_frames=9
+Menschliche Bewertung des Modells: Beauty-Score=gut passend (4.00/5 Likert-Skala; n=2)",beauty_score_variant_2,beauty_score
+abb_kategorie_beauty_score_v02.png,2,7550501572598320439,RI,Beauty-Score | RI | id=320439,"Modell: beauty_mean=53.10 (sehr hoher Beauty-Score); sd=2.56; face_frames=14
+Menschliche Bewertung des Modells: Beauty-Score=gut passend (4.00/5 Likert-Skala; n=2)",beauty_score_variant_2,beauty_score
+abb_kategorie_beauty_score_v02.png,3,7014189798315298053,VI,Beauty-Score | VI | id=298053,"Modell: beauty_mean=22.75 (sehr niedriger Beauty-Score); sd=0.66; face_frames=6
+Menschliche Bewertung des Modells: Beauty-Score=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",beauty_score_variant_2,beauty_score
+abb_kategorie_skin_smoothness_v02.png,1,7573473414455889166,RI,Hautglättung | RI | id=889166,"Modell: highpass_idx=0.02 (sehr natürliche wenig geglättete Haut); dog_idx=0.06 (eher wenig geglättete Haut); face_frames=61
+Menschliche Bewertung des Modells: Hautglättung=gut passend (4.00/5 Likert-Skala; n=2)",skin_smoothness_variant_2,skin_smoothness
+abb_kategorie_skin_smoothness_v02.png,2,7129589619099847982,VI,Hautglättung | VI | id=847982,"Modell: highpass_idx=0.03 (eher wenig geglättete Haut); dog_idx=0.07 (eher wenig geglättete Haut); face_frames=8
+Menschliche Bewertung des Modells: Hautglättung=teilweise passend (3.00/5 Likert-Skala; n=2)",skin_smoothness_variant_2,skin_smoothness
+abb_kategorie_skin_smoothness_v02.png,3,7228975173284744491,RI,Hautglättung | RI | id=744491,"Modell: highpass_idx=0.09 (sehr glatte stark geglättete Haut); dog_idx=0.19 (sehr glatte stark geglättete Haut); face_frames=9
+Menschliche Bewertung des Modells: Hautglättung=sehr gut passend (5.00/5 Likert-Skala; n=2)",skin_smoothness_variant_2,skin_smoothness
+abb_kategorie_face_orientation_v02.png,1,7512643920539700526,RI,Gesichtsorientierung | RI | id=700526,"Modell: orientation=Frontal; pitch=4.39; yaw=6.88
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_orientation_variant_2,face_orientation
+abb_kategorie_face_orientation_v02.png,2,7129589619099847982,VI,Gesichtsorientierung | VI | id=847982,"Modell: orientation=Down; pitch=13.84; yaw=2.96
+Menschliche Bewertung des Modells: Gesichtsorientierung=gut passend (4.00/5 Likert-Skala; n=2)",face_orientation_variant_2,face_orientation
+abb_kategorie_face_orientation_v02.png,3,7516241082754010414,VI,Gesichtsorientierung | VI | id=010414,"Modell: orientation=Left; pitch=2.81; yaw=-37.35
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_orientation_variant_2,face_orientation
+abb_kategorie_brightness_v02.png,1,7244163083097132334,RI,Helligkeit | RI | id=132334,"Modell: brightness_idx=152.88 (eher hell)
+Menschliche Bewertung des Modells: Helligkeit=sehr gut passend (5.00/5 Likert-Skala; n=2)",brightness_variant_2,brightness
+abb_kategorie_brightness_v02.png,2,7452207597907676424,VI,Helligkeit | VI | id=676424,"Modell: brightness_idx=145.00 (eher hell)
+Menschliche Bewertung des Modells: Helligkeit=gut passend (4.00/5 Likert-Skala; n=2)",brightness_variant_2,brightness
+abb_kategorie_brightness_v02.png,3,7037583058626759941,VI,Helligkeit | VI | id=759941,"Modell: brightness_idx=119.19 (mittel hell)
+Menschliche Bewertung des Modells: Helligkeit=gut passend (4.00/5 Likert-Skala; n=2)",brightness_variant_2,brightness
+abb_kategorie_contrast_v02.png,1,7244163083097132334,RI,Kontrast | RI | id=132334,"Modell: contrast_idx=55.67 (mittlerer Kontrast)
+Menschliche Bewertung des Modells: Kontrast=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",contrast_variant_2,contrast
+abb_kategorie_contrast_v02.png,2,7452207597907676424,VI,Kontrast | VI | id=676424,"Modell: contrast_idx=60.04 (mittlerer Kontrast)
+Menschliche Bewertung des Modells: Kontrast=gut passend (4.00/5 Likert-Skala; n=2)",contrast_variant_2,contrast
+abb_kategorie_contrast_v02.png,3,7129589619099847982,VI,Kontrast | VI | id=847982,"Modell: contrast_idx=51.49 (eher geringer Kontrast)
+Menschliche Bewertung des Modells: Kontrast=teilweise passend (3.00/5 Likert-Skala; n=2)",contrast_variant_2,contrast
+abb_kategorie_saturation_v02.png,1,7467202100674497834,VI,Sättigung | VI | id=497834,"Modell: saturation_idx=48.91 (sehr geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",saturation_variant_2,saturation
+abb_kategorie_saturation_v02.png,2,7027954993026190598,VI,Sättigung | VI | id=190598,"Modell: saturation_idx=82.41 (eher geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=gut passend (4.00/5 Likert-Skala; n=2)",saturation_variant_2,saturation
+abb_kategorie_saturation_v02.png,3,7452207597907676424,VI,Sättigung | VI | id=676424,"Modell: saturation_idx=65.97 (sehr geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",saturation_variant_2,saturation
+abb_kategorie_sharpness_v02.png,1,7564790156624973069,RI,Schärfe | RI | id=973069,"Modell: laplacian_mean=2062.26 (sehr scharf)
+Menschliche Bewertung des Modells: Schärfe=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",sharpness_variant_2,sharpness
+abb_kategorie_sharpness_v02.png,2,7037583058626759941,VI,Schärfe | VI | id=759941,"Modell: laplacian_mean=528.64 (eher unscharf)
+Menschliche Bewertung des Modells: Schärfe=gut passend (4.00/5 Likert-Skala; n=2)",sharpness_variant_2,sharpness
+abb_kategorie_sharpness_v02.png,3,7467202100674497834,VI,Schärfe | VI | id=497834,"Modell: laplacian_mean=113.46 (sehr unscharf)
+Menschliche Bewertung des Modells: Schärfe=teilweise passend (3.00/5 Likert-Skala; n=2)",sharpness_variant_2,sharpness
+abb_kategorie_aesthetic_quality_v02.png,1,7565209380782755075,VI,Ästhetik | VI | id=755075,"Modell: aesthetic_score=5.28 (eher hohe visuelle qualitaet); frames=8
+Menschliche Bewertung des Modells: Ästhetik=sehr gut passend (5.00/5 Likert-Skala; n=2)",aesthetic_quality_variant_2,aesthetic_quality
+abb_kategorie_aesthetic_quality_v02.png,2,7452207597907676424,VI,Ästhetik | VI | id=676424,"Modell: aesthetic_score=3.65 (sehr niedrige visuelle qualitaet); frames=33
+Menschliche Bewertung des Modells: Ästhetik=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",aesthetic_quality_variant_2,aesthetic_quality
+abb_kategorie_aesthetic_quality_v02.png,3,7537330858357706006,VI,Ästhetik | VI | id=706006,"Modell: aesthetic_score=4.33 (eher niedrige visuelle qualitaet); frames=17
+Menschliche Bewertung des Modells: Ästhetik=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",aesthetic_quality_variant_2,aesthetic_quality
+abb_kategorie_filter_strength_v02.png,1,7037583058626759941,VI,Filterstärke | VI | id=759941,"Modell: filter=stark (sehr starke Filterwirkung); prob=1.00; frames=10
+Menschliche Bewertung des Modells: Filterstärke=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",filter_strength_variant_2,filter_strength
+abb_kategorie_filter_strength_v02.png,2,7129589619099847982,VI,Filterstärke | VI | id=847982,"Modell: filter=stark (sehr starke Filterwirkung); prob=1.00; frames=8
+Menschliche Bewertung des Modells: Filterstärke=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",filter_strength_variant_2,filter_strength
+abb_kategorie_filter_strength_v02.png,3,7586737085831286071,RI,Filterstärke | RI | id=286071,"Modell: filter=stark (deutliche Filterwirkung); prob=0.98; frames=12
+Menschliche Bewertung des Modells: Filterstärke=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",filter_strength_variant_2,filter_strength
+abb_kategorie_personen_anzahl_v02.png,1,7516241082754010414,VI,Personenzahl | VI | id=010414,"Modell: persons=1.00; max=1; frames=8
+Menschliche Bewertung des Modells: Personenzahl=sehr gut passend (5.00/5 Likert-Skala; n=2)",personen_anzahl_variant_2,personen_anzahl
+abb_kategorie_personen_anzahl_v02.png,2,7467202100674497834,VI,Personenzahl | VI | id=497834,"Modell: persons=1.50; max=3; frames=10
+Menschliche Bewertung des Modells: Personenzahl=gut passend (4.00/5 Likert-Skala; n=2)",personen_anzahl_variant_2,personen_anzahl
+abb_kategorie_personen_anzahl_v02.png,3,7037583058626759941,VI,Personenzahl | VI | id=759941,"Modell: persons=3.40; max=6; frames=9
+Menschliche Bewertung des Modells: Personenzahl=zwischen sehr schlecht passend und eher schlecht passend (1.50/5 Likert-Skala; n=2)",personen_anzahl_variant_2,personen_anzahl
+abb_datasetbeispiele_vi_ri_v03.png,1,7105090679080176942,VI,VI 1 | VI | id=176942,"Modell: scene=beauty; p=0.91; scene_n=2
+Modell: stability_idx=0.63; cuts_s=0.24
+Modell: cam=closeUp; p=0.81",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v03.png,2,7537330858357706006,VI,VI 2 | VI | id=706006,"Modell: scene=stage/indoor; p=0.81; scene_n=1
+Modell: stability_idx=0.85; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.62",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v03.png,3,7525293677674007816,VI,VI 3 | VI | id=007816,"Modell: scene=playroom; p=0.52; scene_n=7
+Modell: stability_idx=0.90; cuts_s=0.03
+Modell: cam=medCloseUp; p=0.65",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v03.png,4,7560172424734559543,RI,RI 1 | RI | id=559543,"Modell: scene=beauty; p=0.82; scene_n=2
+Modell: stability_idx=0.36; cuts_s=1.14
+Modell: cam=medCloseUp; p=0.79",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v03.png,5,7507064809809104171,RI,RI 2 | RI | id=104171,"Modell: scene=airplane; p=0.72; scene_n=3
+Modell: stability_idx=0.62; cuts_s=0.03
+Modell: cam=medCloseUp; p=0.84",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v03.png,6,7488206695714376982,RI,RI 3 | RI | id=376982,"Modell: scene=park; p=0.46; scene_n=3
+Modell: stability_idx=0.92; cuts_s=0.00
+Modell: cam=fullShot; p=0.60",Datensatzbeispiel,scene
+abb_human_evaluation_modellplausibilitaet_v03.png,1,7014189798315298053,VI,Stabilität | VI | id=298053,"Modell: stability_idx=1.00 (sehr stabil); flow_mean=0.00 (sehr ruhig kaum Bewegung); pairs=17
+Menschliche Bewertung des Modells: Stabilität=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_stability_variant_3,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v03.png,2,7496943419483278635,RI,Schnitte/Dynamik | RI | id=278635,"Modell: cut_count=35 (sehr wenige Schnitte); cuts_s=0.65 (sehr ruhig kaum Schnitte); frames=1608
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_3,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v03.png,3,7573473414455889166,RI,Personenzahl | RI | id=889166,"Modell: persons=2.46; max=6; frames=24
+Menschliche Bewertung des Modells: Personenzahl=zwischen sehr schlecht passend und eher schlecht passend (1.50/5 Likert-Skala; n=2)",personen_anzahl_variant_3,human_evaluation_overview
+abb_visuelle_settings_szenen_v03.png,1,7537330858357706006,VI,VI | stage/indoor | VI | id=706006,"Modell: scene=stage/indoor; p=0.81; scene_n=1
+Modell: stability_idx=0.85; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.62",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v03.png,2,7525293677674007816,VI,VI | playroom | VI | id=007816,"Modell: scene=playroom; p=0.52; scene_n=7
+Modell: stability_idx=0.90; cuts_s=0.03
+Modell: cam=medCloseUp; p=0.65",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v03.png,3,7105090679080176942,VI,VI | beauty_salon | VI | id=176942,"Modell: scene=beauty; p=0.91; scene_n=2
+Modell: stability_idx=0.63; cuts_s=0.24
+Modell: cam=closeUp; p=0.81",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v03.png,4,7507064809809104171,RI,RI | airplane_cabin | RI | id=104171,"Modell: scene=airplane; p=0.72; scene_n=3
+Modell: stability_idx=0.62; cuts_s=0.03
+Modell: cam=medCloseUp; p=0.84",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v03.png,5,7491097821064482070,RI,RI | car_interior | RI | id=482070,"Modell: scene=car; p=0.75; scene_n=2
+Modell: stability_idx=0.66; cuts_s=0.12
+Modell: cam=medCloseUp; p=0.67",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v03.png,6,7488206695714376982,RI,RI | park | RI | id=376982,"Modell: scene=park; p=0.46; scene_n=3
+Modell: stability_idx=0.92; cuts_s=0.00
+Modell: cam=fullShot; p=0.60",Szenenbeispiel,scene
+abb_kategorie_scene_v03.png,1,7520275551416749326,RI,Szene | RI | id=749326,"Modell: scene=kitchen; p=0.80; scene_n=1
+Menschliche Bewertung des Modells: Szene=sehr gut passend (5.00/5 Likert-Skala; n=2)",scene_variant_3,scene
+abb_kategorie_scene_v03.png,2,7037583058626759941,VI,Szene | VI | id=759941,"Modell: scene=beauty; p=0.35; scene_n=4
+Menschliche Bewertung des Modells: Szene=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",scene_variant_3,scene
+abb_kategorie_scene_v03.png,3,7014189798315298053,VI,Szene | VI | id=298053,"Modell: scene=dressing; p=0.86; scene_n=1
+Menschliche Bewertung des Modells: Szene=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",scene_variant_3,scene
+abb_kategorie_camera_distance_v03.png,1,7129589619099847982,VI,Kameradistanz | VI | id=847982,"Modell: distance=medCloseUp; p=0.82; frames=8
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_3,camera_distance
+abb_kategorie_camera_distance_v03.png,2,7037583058626759941,VI,Kameradistanz | VI | id=759941,"Modell: distance=closeUp; p=0.66; frames=10
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_3,camera_distance
+abb_kategorie_camera_distance_v03.png,3,7579666136371957005,RI,Kameradistanz | RI | id=957005,"Modell: distance=medShot; p=0.80; frames=49
+Menschliche Bewertung des Modells: Kameradistanz=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",camera_distance_variant_3,camera_distance
+abb_kategorie_camera_stability_v03.png,1,7014189798315298053,VI,Stabilität | VI | id=298053,"Modell: stability_idx=1.00 (sehr stabil); flow_mean=0.00 (sehr ruhig kaum Bewegung); pairs=17
+Menschliche Bewertung des Modells: Stabilität=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_stability_variant_3,camera_stability
+abb_kategorie_camera_stability_v03.png,2,7579666136371957005,RI,Stabilität | RI | id=957005,"Modell: stability_idx=0.34 (sehr instabil); flow_mean=0.02 (mittlere Bewegung); pairs=80
+Menschliche Bewertung des Modells: Stabilität=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",camera_stability_variant_3,camera_stability
+abb_kategorie_camera_stability_v03.png,3,7573473414455889166,RI,Stabilität | RI | id=889166,"Modell: stability_idx=0.55 (mittel stabil); flow_mean=0.01 (eher ruhig); pairs=80
+Menschliche Bewertung des Modells: Stabilität=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",camera_stability_variant_3,camera_stability
+abb_kategorie_cuts_v03.png,1,7027954993026190598,VI,Schnitte/Dynamik | VI | id=190598,"Modell: cut_count=3 (sehr wenige Schnitte); cuts_s=0.33 (sehr ruhig kaum Schnitte); frames=274
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_3,cuts
+abb_kategorie_cuts_v03.png,2,7496943419483278635,RI,Schnitte/Dynamik | RI | id=278635,"Modell: cut_count=35 (sehr wenige Schnitte); cuts_s=0.65 (sehr ruhig kaum Schnitte); frames=1608
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_3,cuts
+abb_kategorie_cuts_v03.png,3,7512643920539700526,RI,Schnitte/Dynamik | RI | id=700526,"Modell: cut_count=0 (sehr wenige Schnitte); cuts_s=0.00 (sehr ruhig kaum Schnitte); frames=1943
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_3,cuts
+abb_kategorie_face_emotion_v03.png,1,7467202100674497834,VI,Emotion | VI | id=497834,"Modell: emotion=Neutral; p=0.76; face_frames=10
+Menschliche Bewertung des Modells: Emotion=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_emotion_variant_3,face_emotion
+abb_kategorie_face_emotion_v03.png,2,7538416839257230614,VI,Emotion | VI | id=230614,"Modell: emotion=Surprise; p=0.51; face_frames=19
+Menschliche Bewertung des Modells: Emotion=teilweise passend (3.00/5 Likert-Skala; n=2)",face_emotion_variant_3,face_emotion
+abb_kategorie_face_emotion_v03.png,3,7513173382473485590,VI,Emotion | VI | id=485590,"Modell: emotion=Angry; p=0.44; face_frames=15
+Menschliche Bewertung des Modells: Emotion=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",face_emotion_variant_3,face_emotion
+abb_kategorie_body_pose_v03.png,1,7517473852260240654,RI,Pose | RI | id=240654,"Modell: pose=sitting; p=0.86; pose_frames=92
+Menschliche Bewertung des Modells: Pose=sehr gut passend (5.00/5 Likert-Skala; n=2)",body_pose_variant_3,body_pose
+abb_kategorie_body_pose_v03.png,2,7516241082754010414,VI,Pose | VI | id=010414,"Modell: pose=listening-to-music; p=0.62; pose_frames=8
+Menschliche Bewertung des Modells: Pose=teilweise passend (3.00/5 Likert-Skala; n=2)",body_pose_variant_3,body_pose
+abb_kategorie_body_pose_v03.png,3,7538416839257230614,VI,Pose | VI | id=230614,"Modell: pose=drinking; p=0.70; pose_frames=19
+Menschliche Bewertung des Modells: Pose=eher schlecht passend (2.00/5 Likert-Skala; n=2)",body_pose_variant_3,body_pose
+abb_kategorie_beauty_score_v03.png,1,7565897317576871190,VI,Beauty-Score | VI | id=871190,"Modell: beauty_mean=41.35 (eher hoher Beauty-Score); sd=9.67; face_frames=6
+Menschliche Bewertung des Modells: Beauty-Score=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",beauty_score_variant_3,beauty_score
+abb_kategorie_beauty_score_v03.png,2,7516376664570416426,VI,Beauty-Score | VI | id=416426,"Modell: beauty_mean=33.51 (mittlerer Beauty-Score); sd=1.69; face_frames=8
+Menschliche Bewertung des Modells: Beauty-Score=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",beauty_score_variant_3,beauty_score
+abb_kategorie_beauty_score_v03.png,3,7579347487303961870,RI,Beauty-Score | RI | id=961870,"Modell: beauty_mean=19.67 (sehr niedriger Beauty-Score); sd=2.56; face_frames=15
+Menschliche Bewertung des Modells: Beauty-Score=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",beauty_score_variant_3,beauty_score
+abb_kategorie_skin_smoothness_v03.png,1,7579666136371957005,RI,Hautglättung | RI | id=957005,"Modell: highpass_idx=0.01 (sehr natürliche wenig geglättete Haut); dog_idx=0.03 (sehr natürliche wenig geglättete Haut); face_frames=17
+Menschliche Bewertung des Modells: Hautglättung=gut passend (4.00/5 Likert-Skala; n=2)",skin_smoothness_variant_3,skin_smoothness
+abb_kategorie_skin_smoothness_v03.png,2,7512643920539700526,RI,Hautglättung | RI | id=700526,"Modell: highpass_idx=0.04 (eher wenig geglättete Haut); dog_idx=0.15 (glatte Haut); face_frames=65
+Menschliche Bewertung des Modells: Hautglättung=gut passend (4.00/5 Likert-Skala; n=2)",skin_smoothness_variant_3,skin_smoothness
+abb_kategorie_skin_smoothness_v03.png,3,7228975173284744491,RI,Hautglättung | RI | id=744491,"Modell: highpass_idx=0.09 (sehr glatte stark geglättete Haut); dog_idx=0.19 (sehr glatte stark geglättete Haut); face_frames=9
+Menschliche Bewertung des Modells: Hautglättung=sehr gut passend (5.00/5 Likert-Skala; n=2)",skin_smoothness_variant_3,skin_smoothness
+abb_kategorie_face_orientation_v03.png,1,7491097821064482070,RI,Gesichtsorientierung | RI | id=482070,"Modell: orientation=Frontal; pitch=10.45; yaw=-0.66
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_orientation_variant_3,face_orientation
+abb_kategorie_face_orientation_v03.png,2,7513173382473485590,VI,Gesichtsorientierung | VI | id=485590,"Modell: orientation=Left; pitch=3.57; yaw=-27.03
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_orientation_variant_3,face_orientation
+abb_kategorie_face_orientation_v03.png,3,7520275551416749326,RI,Gesichtsorientierung | RI | id=749326,"Modell: orientation=Right; pitch=7.56; yaw=19.85
+Menschliche Bewertung des Modells: Gesichtsorientierung=zwischen sehr schlecht passend und eher schlecht passend (1.50/5 Likert-Skala; n=2)",face_orientation_variant_3,face_orientation
+abb_kategorie_brightness_v03.png,1,7174800420806708522,RI,Helligkeit | RI | id=708522,"Modell: brightness_idx=148.31 (eher hell)
+Menschliche Bewertung des Modells: Helligkeit=sehr gut passend (5.00/5 Likert-Skala; n=2)",brightness_variant_3,brightness
+abb_kategorie_brightness_v03.png,2,7037583058626759941,VI,Helligkeit | VI | id=759941,"Modell: brightness_idx=119.19 (mittel hell)
+Menschliche Bewertung des Modells: Helligkeit=gut passend (4.00/5 Likert-Skala; n=2)",brightness_variant_3,brightness
+abb_kategorie_brightness_v03.png,3,7027954993026190598,VI,Helligkeit | VI | id=190598,"Modell: brightness_idx=129.82 (mittel hell)
+Menschliche Bewertung des Modells: Helligkeit=gut passend (4.00/5 Likert-Skala; n=2)",brightness_variant_3,brightness
+abb_kategorie_contrast_v03.png,1,7513173382473485590,VI,Kontrast | VI | id=485590,"Modell: contrast_idx=69.01 (eher hoher Kontrast)
+Menschliche Bewertung des Modells: Kontrast=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",contrast_variant_3,contrast
+abb_kategorie_contrast_v03.png,2,7037583058626759941,VI,Kontrast | VI | id=759941,"Modell: contrast_idx=68.89 (eher hoher Kontrast)
+Menschliche Bewertung des Modells: Kontrast=gut passend (4.00/5 Likert-Skala; n=2)",contrast_variant_3,contrast
+abb_kategorie_contrast_v03.png,3,7520275551416749326,RI,Kontrast | RI | id=749326,"Modell: contrast_idx=65.52 (eher hoher Kontrast)
+Menschliche Bewertung des Modells: Kontrast=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",contrast_variant_3,contrast
+abb_kategorie_saturation_v03.png,1,7512643920539700526,RI,Sättigung | RI | id=700526,"Modell: saturation_idx=55.04 (sehr geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",saturation_variant_3,saturation
+abb_kategorie_saturation_v03.png,2,7014189798315298053,VI,Sättigung | VI | id=298053,"Modell: saturation_idx=48.62 (sehr geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=gut passend (4.00/5 Likert-Skala; n=2)",saturation_variant_3,saturation
+abb_kategorie_saturation_v03.png,3,7037583058626759941,VI,Sättigung | VI | id=759941,"Modell: saturation_idx=91.43 (eher geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",saturation_variant_3,saturation
+abb_kategorie_sharpness_v03.png,1,7516241082754010414,VI,Schärfe | VI | id=010414,"Modell: laplacian_mean=134.22 (sehr unscharf)
+Menschliche Bewertung des Modells: Schärfe=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",sharpness_variant_3,sharpness
+abb_kategorie_sharpness_v03.png,2,7129589619099847982,VI,Schärfe | VI | id=847982,"Modell: laplacian_mean=839.47 (eher unscharf)
+Menschliche Bewertung des Modells: Schärfe=gut passend (4.00/5 Likert-Skala; n=2)",sharpness_variant_3,sharpness
+abb_kategorie_sharpness_v03.png,3,7027954993026190598,VI,Schärfe | VI | id=190598,"Modell: laplacian_mean=390.10 (sehr unscharf)
+Menschliche Bewertung des Modells: Schärfe=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",sharpness_variant_3,sharpness
+abb_kategorie_aesthetic_quality_v03.png,1,7516241082754010414,VI,Ästhetik | VI | id=010414,"Modell: aesthetic_score=6.02 (sehr hohe visuelle qualitaet); frames=8
+Menschliche Bewertung des Modells: Ästhetik=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",aesthetic_quality_variant_3,aesthetic_quality
+abb_kategorie_aesthetic_quality_v03.png,2,7577558634071133454,RI,Ästhetik | RI | id=133454,"Modell: aesthetic_score=3.86 (sehr niedrige visuelle qualitaet); frames=11
+Menschliche Bewertung des Modells: Ästhetik=gut passend (4.00/5 Likert-Skala; n=2)",aesthetic_quality_variant_3,aesthetic_quality
+abb_kategorie_aesthetic_quality_v03.png,3,7537330858357706006,VI,Ästhetik | VI | id=706006,"Modell: aesthetic_score=4.33 (eher niedrige visuelle qualitaet); frames=17
+Menschliche Bewertung des Modells: Ästhetik=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",aesthetic_quality_variant_3,aesthetic_quality
+abb_kategorie_filter_strength_v03.png,1,7129589619099847982,VI,Filterstärke | VI | id=847982,"Modell: filter=stark (sehr starke Filterwirkung); prob=1.00; frames=8
+Menschliche Bewertung des Modells: Filterstärke=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",filter_strength_variant_3,filter_strength
+abb_kategorie_filter_strength_v03.png,2,7027954993026190598,VI,Filterstärke | VI | id=190598,"Modell: filter=stark (sehr starke Filterwirkung); prob=0.99; frames=10
+Menschliche Bewertung des Modells: Filterstärke=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",filter_strength_variant_3,filter_strength
+abb_kategorie_filter_strength_v03.png,3,7520275551416749326,RI,Filterstärke | RI | id=749326,"Modell: filter=stark (sehr starke Filterwirkung); prob=1.00; frames=9
+Menschliche Bewertung des Modells: Filterstärke=teilweise passend (3.00/5 Likert-Skala; n=2)",filter_strength_variant_3,filter_strength
+abb_kategorie_personen_anzahl_v03.png,1,7516376664570416426,VI,Personenzahl | VI | id=416426,"Modell: persons=1.00; max=1; frames=8
+Menschliche Bewertung des Modells: Personenzahl=sehr gut passend (5.00/5 Likert-Skala; n=2)",personen_anzahl_variant_3,personen_anzahl
+abb_kategorie_personen_anzahl_v03.png,2,7538416839257230614,VI,Personenzahl | VI | id=230614,"Modell: persons=1.84; max=6; frames=19
+Menschliche Bewertung des Modells: Personenzahl=gut passend (4.00/5 Likert-Skala; n=2)",personen_anzahl_variant_3,personen_anzahl
+abb_kategorie_personen_anzahl_v03.png,3,7573473414455889166,RI,Personenzahl | RI | id=889166,"Modell: persons=2.46; max=6; frames=24
+Menschliche Bewertung des Modells: Personenzahl=zwischen sehr schlecht passend und eher schlecht passend (1.50/5 Likert-Skala; n=2)",personen_anzahl_variant_3,personen_anzahl
+abb_datasetbeispiele_vi_ri_v04.png,1,7463523561366359342,VI,VI 1 | VI | id=359342,"Modell: scene=beauty; p=0.91; scene_n=1
+Modell: stability_idx=0.80; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.68",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v04.png,2,7513173382473485590,VI,VI 2 | VI | id=485590,"Modell: scene=stage/indoor; p=0.70; scene_n=1
+Modell: stability_idx=0.88; cuts_s=0.00
+Modell: cam=medShot; p=0.88",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v04.png,3,7526714563346107655,VI,VI 3 | VI | id=107655,"Modell: scene=playroom; p=0.43; scene_n=10
+Modell: stability_idx=0.91; cuts_s=0.04
+Modell: cam=medCloseUp; p=0.65",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v04.png,4,7568688050927160590,RI,RI 1 | RI | id=160590,"Modell: scene=beauty; p=0.81; scene_n=1
+Modell: stability_idx=0.63; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.74",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v04.png,5,7503287135475191071,RI,RI 2 | RI | id=191071,"Modell: scene=airplane; p=0.71; scene_n=9
+Modell: stability_idx=0.45; cuts_s=0.72
+Modell: cam=medShot; p=0.90",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v04.png,6,7271686837788233003,RI,RI 3 | RI | id=233003,"Modell: scene=park; p=0.46; scene_n=10
+Modell: stability_idx=0.61; cuts_s=0.33
+Modell: cam=fullShot; p=0.83",Datensatzbeispiel,scene
+abb_human_evaluation_modellplausibilitaet_v04.png,1,7513173382473485590,VI,Szene | VI | id=485590,"Modell: scene=stage/indoor; p=0.70; scene_n=1
+Menschliche Bewertung des Modells: Szene=sehr gut passend (5.00/5 Likert-Skala; n=2)",scene_variant_4,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v04.png,2,7524383521972981047,RI,Kameradistanz | RI | id=981047,"Modell: distance=closeUp; p=0.68; frames=54
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_4,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v04.png,3,7513173382473485590,VI,Pose | VI | id=485590,"Modell: pose=drinking; p=0.69; pose_frames=15
+Menschliche Bewertung des Modells: Pose=zwischen sehr schlecht passend und eher schlecht passend (1.50/5 Likert-Skala; n=2)",body_pose_variant_4,human_evaluation_overview
+abb_visuelle_settings_szenen_v04.png,1,7513173382473485590,VI,VI | stage/indoor | VI | id=485590,"Modell: scene=stage/indoor; p=0.70; scene_n=1
+Modell: stability_idx=0.88; cuts_s=0.00
+Modell: cam=medShot; p=0.88",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v04.png,2,7526714563346107655,VI,VI | playroom | VI | id=107655,"Modell: scene=playroom; p=0.43; scene_n=10
+Modell: stability_idx=0.91; cuts_s=0.04
+Modell: cam=medCloseUp; p=0.65",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v04.png,3,7463523561366359342,VI,VI | beauty_salon | VI | id=359342,"Modell: scene=beauty; p=0.91; scene_n=1
+Modell: stability_idx=0.80; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.68",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v04.png,4,7503287135475191071,RI,RI | airplane_cabin | RI | id=191071,"Modell: scene=airplane; p=0.71; scene_n=9
+Modell: stability_idx=0.45; cuts_s=0.72
+Modell: cam=medShot; p=0.90",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v04.png,5,7473171580592606510,RI,RI | car_interior | RI | id=606510,"Modell: scene=car; p=0.69; scene_n=10
+Modell: stability_idx=0.44; cuts_s=0.66
+Modell: cam=medShot; p=0.92",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v04.png,6,7271686837788233003,RI,RI | park | RI | id=233003,"Modell: scene=park; p=0.46; scene_n=10
+Modell: stability_idx=0.61; cuts_s=0.33
+Modell: cam=fullShot; p=0.83",Szenenbeispiel,scene
+abb_kategorie_scene_v04.png,1,7513173382473485590,VI,Szene | VI | id=485590,"Modell: scene=stage/indoor; p=0.70; scene_n=1
+Menschliche Bewertung des Modells: Szene=sehr gut passend (5.00/5 Likert-Skala; n=2)",scene_variant_4,scene
+abb_kategorie_scene_v04.png,2,7573473414455889166,RI,Szene | RI | id=889166,"Modell: scene=beauty; p=0.43; scene_n=8
+Menschliche Bewertung des Modells: Szene=gut passend (4.00/5 Likert-Skala; n=2)",scene_variant_4,scene
+abb_kategorie_scene_v04.png,3,7573527601692626189,RI,Szene | RI | id=626189,"Modell: scene=airplane; p=0.45; scene_n=3
+Menschliche Bewertung des Modells: Szene=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",scene_variant_4,scene
+abb_kategorie_camera_distance_v04.png,1,7032242293411286273,VI,Kameradistanz | VI | id=286273,"Modell: distance=medCloseUp; p=0.66; frames=15
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_4,camera_distance
+abb_kategorie_camera_distance_v04.png,2,7524383521972981047,RI,Kameradistanz | RI | id=981047,"Modell: distance=closeUp; p=0.68; frames=54
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_4,camera_distance
+abb_kategorie_camera_distance_v04.png,3,7520275551416749326,RI,Kameradistanz | RI | id=749326,"Modell: distance=fullShot; p=0.64; frames=9
+Menschliche Bewertung des Modells: Kameradistanz=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",camera_distance_variant_4,camera_distance
+abb_kategorie_camera_stability_v04.png,1,7032242293411286273,VI,Stabilität | VI | id=286273,"Modell: stability_idx=0.73 (eher stabil); flow_mean=0.00 (sehr ruhig kaum Bewegung); pairs=42
+Menschliche Bewertung des Modells: Stabilität=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_stability_variant_4,camera_stability
+abb_kategorie_camera_stability_v04.png,2,7565897317576871190,VI,Stabilität | VI | id=871190,"Modell: stability_idx=0.85 (sehr stabil); flow_mean=0.00 (sehr ruhig kaum Bewegung); pairs=56
+Menschliche Bewertung des Modells: Stabilität=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",camera_stability_variant_4,camera_stability
+abb_kategorie_camera_stability_v04.png,3,7580098823427558711,RI,Stabilität | RI | id=558711,"Modell: stability_idx=0.38 (eher instabil); flow_mean=0.02 (mittlere Bewegung); pairs=80
+Menschliche Bewertung des Modells: Stabilität=gut passend (4.00/5 Likert-Skala; n=2)",camera_stability_variant_4,camera_stability
+abb_kategorie_cuts_v04.png,1,7014189798315298053,VI,Schnitte/Dynamik | VI | id=298053,"Modell: cut_count=0 (sehr wenige Schnitte); cuts_s=0.00 (sehr ruhig kaum Schnitte); frames=177
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_4,cuts
+abb_kategorie_cuts_v04.png,2,7027954993026190598,VI,Schnitte/Dynamik | VI | id=190598,"Modell: cut_count=3 (sehr wenige Schnitte); cuts_s=0.33 (sehr ruhig kaum Schnitte); frames=274
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_4,cuts
+abb_kategorie_cuts_v04.png,3,6988896764241693958,VI,Schnitte/Dynamik | VI | id=693958,"Modell: cut_count=38 (sehr wenige Schnitte); cuts_s=1.06 (sehr ruhig kaum Schnitte); frames=1038
+Menschliche Bewertung des Modells: Schnitte/Dynamik=gut passend (4.00/5 Likert-Skala; n=2)",cuts_variant_4,cuts
+abb_kategorie_face_emotion_v04.png,1,7027954993026190598,VI,Emotion | VI | id=190598,"Modell: emotion=Happy; p=0.64; face_frames=10
+Menschliche Bewertung des Modells: Emotion=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",face_emotion_variant_4,face_emotion
+abb_kategorie_face_emotion_v04.png,2,7520275551416749326,RI,Emotion | RI | id=749326,"Modell: emotion=Neutral; p=0.50; face_frames=9
+Menschliche Bewertung des Modells: Emotion=gut passend (4.00/5 Likert-Skala; n=2)",face_emotion_variant_4,face_emotion
+abb_kategorie_face_emotion_v04.png,3,7513173382473485590,VI,Emotion | VI | id=485590,"Modell: emotion=Angry; p=0.44; face_frames=15
+Menschliche Bewertung des Modells: Emotion=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",face_emotion_variant_4,face_emotion
+abb_kategorie_body_pose_v04.png,1,7032242293411286273,VI,Pose | VI | id=286273,"Modell: pose=laughing; p=0.52; pose_frames=15
+Menschliche Bewertung des Modells: Pose=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",body_pose_variant_4,body_pose
+abb_kategorie_body_pose_v04.png,2,7550501572598320439,RI,Pose | RI | id=320439,"Modell: pose=calling; p=0.41; pose_frames=14
+Menschliche Bewertung des Modells: Pose=teilweise passend (3.00/5 Likert-Skala; n=2)",body_pose_variant_4,body_pose
+abb_kategorie_body_pose_v04.png,3,7513173382473485590,VI,Pose | VI | id=485590,"Modell: pose=drinking; p=0.69; pose_frames=15
+Menschliche Bewertung des Modells: Pose=zwischen sehr schlecht passend und eher schlecht passend (1.50/5 Likert-Skala; n=2)",body_pose_variant_4,body_pose
+abb_kategorie_beauty_score_v04.png,1,7537330858357706006,VI,Beauty-Score | VI | id=706006,"Modell: beauty_mean=41.30 (eher hoher Beauty-Score); sd=3.29; face_frames=17
+Menschliche Bewertung des Modells: Beauty-Score=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",beauty_score_variant_4,beauty_score
+abb_kategorie_beauty_score_v04.png,2,7512643920539700526,RI,Beauty-Score | RI | id=700526,"Modell: beauty_mean=26.59 (eher niedriger Beauty-Score); sd=2.62; face_frames=52
+Menschliche Bewertung des Modells: Beauty-Score=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",beauty_score_variant_4,beauty_score
+abb_kategorie_beauty_score_v04.png,3,7244163083097132334,RI,Beauty-Score | RI | id=132334,"Modell: beauty_mean=24.66 (sehr niedriger Beauty-Score); sd=5.39; face_frames=8
+Menschliche Bewertung des Modells: Beauty-Score=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",beauty_score_variant_4,beauty_score
+abb_kategorie_skin_smoothness_v04.png,1,7512643920539700526,RI,Hautglättung | RI | id=700526,"Modell: highpass_idx=0.04 (eher wenig geglättete Haut); dog_idx=0.15 (glatte Haut); face_frames=65
+Menschliche Bewertung des Modells: Hautglättung=gut passend (4.00/5 Likert-Skala; n=2)",skin_smoothness_variant_4,skin_smoothness
+abb_kategorie_skin_smoothness_v04.png,2,7174800420806708522,RI,Hautglättung | RI | id=708522,"Modell: highpass_idx=0.01 (sehr natürliche wenig geglättete Haut); dog_idx=0.03 (sehr natürliche wenig geglättete Haut); face_frames=22
+Menschliche Bewertung des Modells: Hautglättung=teilweise passend (3.00/5 Likert-Skala; n=2)",skin_smoothness_variant_4,skin_smoothness
+abb_kategorie_skin_smoothness_v04.png,3,7228975173284744491,RI,Hautglättung | RI | id=744491,"Modell: highpass_idx=0.09 (sehr glatte stark geglättete Haut); dog_idx=0.19 (sehr glatte stark geglättete Haut); face_frames=9
+Menschliche Bewertung des Modells: Hautglättung=sehr gut passend (5.00/5 Likert-Skala; n=2)",skin_smoothness_variant_4,skin_smoothness
+abb_kategorie_face_orientation_v04.png,1,7032242293411286273,VI,Gesichtsorientierung | VI | id=286273,"Modell: orientation=Frontal; pitch=9.24; yaw=1.01
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_orientation_variant_4,face_orientation
+abb_kategorie_face_orientation_v04.png,2,7496943419483278635,RI,Gesichtsorientierung | RI | id=278635,"Modell: orientation=Left; pitch=11.89; yaw=-16.09
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_orientation_variant_4,face_orientation
+abb_kategorie_face_orientation_v04.png,3,7550501572598320439,RI,Gesichtsorientierung | RI | id=320439,"Modell: orientation=Down; pitch=14.24; yaw=-3.03
+Menschliche Bewertung des Modells: Gesichtsorientierung=teilweise passend (3.00/5 Likert-Skala; n=2)",face_orientation_variant_4,face_orientation
+abb_kategorie_brightness_v04.png,1,7242309744612953390,RI,Helligkeit | RI | id=953390,"Modell: brightness_idx=166.00 (sehr hell)
+Menschliche Bewertung des Modells: Helligkeit=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",brightness_variant_4,brightness
+abb_kategorie_brightness_v04.png,2,7129589619099847982,VI,Helligkeit | VI | id=847982,"Modell: brightness_idx=109.20 (eher dunkel)
+Menschliche Bewertung des Modells: Helligkeit=gut passend (4.00/5 Likert-Skala; n=2)",brightness_variant_4,brightness
+abb_kategorie_brightness_v04.png,3,7565897317576871190,VI,Helligkeit | VI | id=871190,"Modell: brightness_idx=116.87 (eher dunkel)
+Menschliche Bewertung des Modells: Helligkeit=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",brightness_variant_4,brightness
+abb_kategorie_contrast_v04.png,1,7174800420806708522,RI,Kontrast | RI | id=708522,"Modell: contrast_idx=58.48 (mittlerer Kontrast)
+Menschliche Bewertung des Modells: Kontrast=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",contrast_variant_4,contrast
+abb_kategorie_contrast_v04.png,2,7467202100674497834,VI,Kontrast | VI | id=497834,"Modell: contrast_idx=71.95 (eher hoher Kontrast)
+Menschliche Bewertung des Modells: Kontrast=gut passend (4.00/5 Likert-Skala; n=2)",contrast_variant_4,contrast
+abb_kategorie_contrast_v04.png,3,7565897317576871190,VI,Kontrast | VI | id=871190,"Modell: contrast_idx=60.67 (mittlerer Kontrast)
+Menschliche Bewertung des Modells: Kontrast=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",contrast_variant_4,contrast
+abb_kategorie_saturation_v04.png,1,7244163083097132334,RI,Sättigung | RI | id=132334,"Modell: saturation_idx=64.63 (sehr geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",saturation_variant_4,saturation
+abb_kategorie_saturation_v04.png,2,7032242293411286273,VI,Sättigung | VI | id=286273,"Modell: saturation_idx=93.20 (eher geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=gut passend (4.00/5 Likert-Skala; n=2)",saturation_variant_4,saturation
+abb_kategorie_saturation_v04.png,3,7129589619099847982,VI,Sättigung | VI | id=847982,"Modell: saturation_idx=71.40 (eher geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",saturation_variant_4,saturation
+abb_kategorie_sharpness_v04.png,1,7550501572598320439,RI,Schärfe | RI | id=320439,"Modell: laplacian_mean=498.75 (eher unscharf)
+Menschliche Bewertung des Modells: Schärfe=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",sharpness_variant_4,sharpness
+abb_kategorie_sharpness_v04.png,2,7032242293411286273,VI,Schärfe | VI | id=286273,"Modell: laplacian_mean=126.01 (sehr unscharf)
+Menschliche Bewertung des Modells: Schärfe=gut passend (4.00/5 Likert-Skala; n=2)",sharpness_variant_4,sharpness
+abb_kategorie_sharpness_v04.png,3,7014189798315298053,VI,Schärfe | VI | id=298053,"Modell: laplacian_mean=413.09 (sehr unscharf)
+Menschliche Bewertung des Modells: Schärfe=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",sharpness_variant_4,sharpness
+abb_kategorie_aesthetic_quality_v04.png,1,7550501572598320439,RI,Ästhetik | RI | id=320439,"Modell: aesthetic_score=4.09 (sehr niedrige visuelle qualitaet); frames=14
+Menschliche Bewertung des Modells: Ästhetik=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",aesthetic_quality_variant_4,aesthetic_quality
+abb_kategorie_aesthetic_quality_v04.png,2,7573473414455889166,RI,Ästhetik | RI | id=889166,"Modell: aesthetic_score=3.90 (sehr niedrige visuelle qualitaet); frames=61
+Menschliche Bewertung des Modells: Ästhetik=gut passend (4.00/5 Likert-Skala; n=2)",aesthetic_quality_variant_4,aesthetic_quality
+abb_kategorie_aesthetic_quality_v04.png,3,7516618844039957802,RI,Ästhetik | RI | id=957802,"Modell: aesthetic_score=4.44 (eher niedrige visuelle qualitaet); frames=55
+Menschliche Bewertung des Modells: Ästhetik=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",aesthetic_quality_variant_4,aesthetic_quality
+abb_kategorie_filter_strength_v04.png,1,7512643920539700526,RI,Filterstärke | RI | id=700526,"Modell: filter=stark (sehr starke Filterwirkung); prob=1.00; frames=12
+Menschliche Bewertung des Modells: Filterstärke=sehr gut passend (5.00/5 Likert-Skala; n=2)",filter_strength_variant_4,filter_strength
+abb_kategorie_filter_strength_v04.png,2,7027954993026190598,VI,Filterstärke | VI | id=190598,"Modell: filter=stark (sehr starke Filterwirkung); prob=0.99; frames=10
+Menschliche Bewertung des Modells: Filterstärke=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",filter_strength_variant_4,filter_strength
+abb_kategorie_filter_strength_v04.png,3,7524383521972981047,RI,Filterstärke | RI | id=981047,"Modell: filter=stark (sehr starke Filterwirkung); prob=1.00; frames=12
+Menschliche Bewertung des Modells: Filterstärke=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",filter_strength_variant_4,filter_strength
+abb_kategorie_personen_anzahl_v04.png,1,7579666136371957005,RI,Personenzahl | RI | id=957005,"Modell: persons=1.33; max=4; frames=19
+Menschliche Bewertung des Modells: Personenzahl=sehr gut passend (5.00/5 Likert-Skala; n=2)",personen_anzahl_variant_4,personen_anzahl
+abb_kategorie_personen_anzahl_v04.png,2,7452207597907676424,VI,Personenzahl | VI | id=676424,"Modell: persons=3.92; max=7; frames=24
+Menschliche Bewertung des Modells: Personenzahl=gut passend (4.00/5 Likert-Skala; n=2)",personen_anzahl_variant_4,personen_anzahl
+abb_kategorie_personen_anzahl_v04.png,3,7516241082754010414,VI,Personenzahl | VI | id=010414,"Modell: persons=1.00; max=1; frames=8
+Menschliche Bewertung des Modells: Personenzahl=sehr gut passend (5.00/5 Likert-Skala; n=2)",personen_anzahl_variant_4,personen_anzahl
+abb_datasetbeispiele_vi_ri_v05.png,1,7506289943216459050,VI,VI 1 | VI | id=459050,"Modell: scene=beauty; p=0.90; scene_n=1
+Modell: stability_idx=0.95; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.84",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v05.png,2,7495789864013532438,VI,VI 2 | VI | id=532438,"Modell: scene=stage/indoor; p=0.56; scene_n=2
+Modell: stability_idx=0.86; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.65",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v05.png,3,7451924522468379922,VI,VI 3 | VI | id=379922,"Modell: scene=playroom; p=0.41; scene_n=5
+Modell: stability_idx=0.51; cuts_s=0.35
+Modell: cam=medShot; p=0.78",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v05.png,4,7484728261746986286,RI,RI 1 | RI | id=986286,"Modell: scene=beauty; p=0.81; scene_n=1
+Modell: stability_idx=0.50; cuts_s=0.00
+Modell: cam=closeUp; p=0.62",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v05.png,5,7586650207677418766,RI,RI 2 | RI | id=418766,"Modell: scene=airplane; p=0.70; scene_n=8
+Modell: stability_idx=0.35; cuts_s=0.73
+Modell: cam=medCloseUp; p=0.81",Datensatzbeispiel,scene
+abb_datasetbeispiele_vi_ri_v05.png,6,7564790156624973069,RI,RI 3 | RI | id=973069,"Modell: scene=park; p=0.40; scene_n=6
+Modell: stability_idx=0.37; cuts_s=0.57
+Modell: cam=extremeLong; p=0.81",Datensatzbeispiel,scene
+abb_human_evaluation_modellplausibilitaet_v05.png,1,7174800420806708522,RI,Emotion | RI | id=708522,"Modell: emotion=Neutral; p=0.79; face_frames=22
+Menschliche Bewertung des Modells: Emotion=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_emotion_variant_5,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v05.png,2,7027954993026190598,VI,Beauty-Score | VI | id=190598,"Modell: beauty_mean=34.77 (mittlerer Beauty-Score); sd=7.44; face_frames=9
+Menschliche Bewertung des Modells: Beauty-Score=gut passend (4.00/5 Likert-Skala; n=2)",beauty_score_variant_5,human_evaluation_overview
+abb_human_evaluation_modellplausibilitaet_v05.png,3,7228975173284744491,RI,Hautglättung | RI | id=744491,"Modell: highpass_idx=0.09 (sehr glatte stark geglättete Haut); dog_idx=0.19 (sehr glatte stark geglättete Haut); face_frames=9
+Menschliche Bewertung des Modells: Hautglättung=sehr gut passend (5.00/5 Likert-Skala; n=2)",skin_smoothness_variant_5,human_evaluation_overview
+abb_visuelle_settings_szenen_v05.png,1,7495789864013532438,VI,VI | stage/indoor | VI | id=532438,"Modell: scene=stage/indoor; p=0.56; scene_n=2
+Modell: stability_idx=0.86; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.65",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v05.png,2,7451924522468379922,VI,VI | playroom | VI | id=379922,"Modell: scene=playroom; p=0.41; scene_n=5
+Modell: stability_idx=0.51; cuts_s=0.35
+Modell: cam=medShot; p=0.78",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v05.png,3,7506289943216459050,VI,VI | beauty_salon | VI | id=459050,"Modell: scene=beauty; p=0.90; scene_n=1
+Modell: stability_idx=0.95; cuts_s=0.00
+Modell: cam=medCloseUp; p=0.84",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v05.png,4,7586650207677418766,RI,RI | airplane_cabin | RI | id=418766,"Modell: scene=airplane; p=0.70; scene_n=8
+Modell: stability_idx=0.35; cuts_s=0.73
+Modell: cam=medCloseUp; p=0.81",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v05.png,5,7470606140368227627,RI,RI | car_interior | RI | id=227627,"Modell: scene=car; p=0.60; scene_n=3
+Modell: stability_idx=0.46; cuts_s=0.45
+Modell: cam=medCloseUp; p=0.64",Szenenbeispiel,scene
+abb_visuelle_settings_szenen_v05.png,6,7564790156624973069,RI,RI | park | RI | id=973069,"Modell: scene=park; p=0.40; scene_n=6
+Modell: stability_idx=0.37; cuts_s=0.57
+Modell: cam=extremeLong; p=0.81",Szenenbeispiel,scene
+abb_kategorie_scene_v05.png,1,7491097821064482070,RI,Szene | RI | id=482070,"Modell: scene=car; p=0.75; scene_n=2
+Menschliche Bewertung des Modells: Szene=sehr gut passend (5.00/5 Likert-Skala; n=2)",scene_variant_5,scene
+abb_kategorie_scene_v05.png,2,7524383521972981047,RI,Szene | RI | id=981047,"Modell: scene=beauty; p=0.68; scene_n=5
+Menschliche Bewertung des Modells: Szene=gut passend (4.00/5 Likert-Skala; n=2)",scene_variant_5,scene
+abb_kategorie_scene_v05.png,3,7174800420806708522,RI,Szene | RI | id=708522,"Modell: scene=laundromat; p=0.18; scene_n=8
+Menschliche Bewertung des Modells: Szene=eher schlecht passend (2.00/5 Likert-Skala; n=2)",scene_variant_5,scene
+abb_kategorie_camera_distance_v05.png,1,7258222058293710088,VI,Kameradistanz | VI | id=710088,"Modell: distance=medShot; p=0.63; frames=10
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_5,camera_distance
+abb_kategorie_camera_distance_v05.png,2,7032242293411286273,VI,Kameradistanz | VI | id=286273,"Modell: distance=medCloseUp; p=0.66; frames=15
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_5,camera_distance
+abb_kategorie_camera_distance_v05.png,3,7524383521972981047,RI,Kameradistanz | RI | id=981047,"Modell: distance=closeUp; p=0.68; frames=54
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_distance_variant_5,camera_distance
+abb_kategorie_camera_stability_v05.png,1,7242309744612953390,RI,Stabilität | RI | id=953390,"Modell: stability_idx=0.29 (sehr instabil); flow_mean=0.02 (eher bewegt); pairs=28
+Menschliche Bewertung des Modells: Stabilität=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_stability_variant_5,camera_stability
+abb_kategorie_camera_stability_v05.png,2,7014189798315298053,VI,Stabilität | VI | id=298053,"Modell: stability_idx=1.00 (sehr stabil); flow_mean=0.00 (sehr ruhig kaum Bewegung); pairs=17
+Menschliche Bewertung des Modells: Stabilität=sehr gut passend (5.00/5 Likert-Skala; n=2)",camera_stability_variant_5,camera_stability
+abb_kategorie_camera_stability_v05.png,3,7129589619099847982,VI,Stabilität | VI | id=847982,"Modell: stability_idx=0.57 (mittel stabil); flow_mean=0.01 (eher ruhig); pairs=22
+Menschliche Bewertung des Modells: Stabilität=teilweise passend (3.00/5 Likert-Skala; n=2)",camera_stability_variant_5,camera_stability
+abb_kategorie_cuts_v05.png,1,7032242293411286273,VI,Schnitte/Dynamik | VI | id=286273,"Modell: cut_count=1 (sehr wenige Schnitte); cuts_s=0.07 (sehr ruhig kaum Schnitte); frames=343
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_5,cuts
+abb_kategorie_cuts_v05.png,2,7258222058293710088,VI,Schnitte/Dynamik | VI | id=710088,"Modell: cut_count=5 (sehr wenige Schnitte); cuts_s=0.55 (sehr ruhig kaum Schnitte); frames=275
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_5,cuts
+abb_kategorie_cuts_v05.png,3,7014189798315298053,VI,Schnitte/Dynamik | VI | id=298053,"Modell: cut_count=0 (sehr wenige Schnitte); cuts_s=0.00 (sehr ruhig kaum Schnitte); frames=177
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",cuts_variant_5,cuts
+abb_kategorie_face_emotion_v05.png,1,7174800420806708522,RI,Emotion | RI | id=708522,"Modell: emotion=Neutral; p=0.79; face_frames=22
+Menschliche Bewertung des Modells: Emotion=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_emotion_variant_5,face_emotion
+abb_kategorie_face_emotion_v05.png,2,7491097821064482070,RI,Emotion | RI | id=482070,"Modell: emotion=Sad; p=0.47; face_frames=9
+Menschliche Bewertung des Modells: Emotion=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",face_emotion_variant_5,face_emotion
+abb_kategorie_face_emotion_v05.png,3,7550501572598320439,RI,Emotion | RI | id=320439,"Modell: emotion=Angry; p=0.59; face_frames=14
+Menschliche Bewertung des Modells: Emotion=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",face_emotion_variant_5,face_emotion
+abb_kategorie_body_pose_v05.png,1,7496943419483278635,RI,Pose | RI | id=278635,"Modell: pose=laughing; p=0.73; pose_frames=54
+Menschliche Bewertung des Modells: Pose=gut passend (4.00/5 Likert-Skala; n=2)",body_pose_variant_5,body_pose
+abb_kategorie_body_pose_v05.png,2,7244163083097132334,RI,Pose | RI | id=132334,"Modell: pose=drinking; p=0.61; pose_frames=23
+Menschliche Bewertung des Modells: Pose=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",body_pose_variant_5,body_pose
+abb_kategorie_body_pose_v05.png,3,7537330858357706006,VI,Pose | VI | id=706006,"Modell: pose=calling; p=0.48; pose_frames=17
+Menschliche Bewertung des Modells: Pose=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",body_pose_variant_5,body_pose
+abb_kategorie_beauty_score_v05.png,1,7513173382473485590,VI,Beauty-Score | VI | id=485590,"Modell: beauty_mean=48.27 (sehr hoher Beauty-Score); sd=2.18; face_frames=15
+Menschliche Bewertung des Modells: Beauty-Score=sehr gut passend (5.00/5 Likert-Skala; n=2)",beauty_score_variant_5,beauty_score
+abb_kategorie_beauty_score_v05.png,2,7027954993026190598,VI,Beauty-Score | VI | id=190598,"Modell: beauty_mean=34.77 (mittlerer Beauty-Score); sd=7.44; face_frames=9
+Menschliche Bewertung des Modells: Beauty-Score=gut passend (4.00/5 Likert-Skala; n=2)",beauty_score_variant_5,beauty_score
+abb_kategorie_beauty_score_v05.png,3,7014189798315298053,VI,Beauty-Score | VI | id=298053,"Modell: beauty_mean=22.75 (sehr niedriger Beauty-Score); sd=0.66; face_frames=6
+Menschliche Bewertung des Modells: Beauty-Score=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",beauty_score_variant_5,beauty_score
+abb_kategorie_skin_smoothness_v05.png,1,7550501572598320439,RI,Hautglättung | RI | id=320439,"Modell: highpass_idx=0.00 (sehr natürliche wenig geglättete Haut); dog_idx=0.04 (sehr natürliche wenig geglättete Haut); face_frames=14
+Menschliche Bewertung des Modells: Hautglättung=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",skin_smoothness_variant_5,skin_smoothness
+abb_kategorie_skin_smoothness_v05.png,2,7032242293411286273,VI,Hautglättung | VI | id=286273,"Modell: highpass_idx=0.05 (mittel glatte Haut); dog_idx=0.13 (glatte Haut); face_frames=10
+Menschliche Bewertung des Modells: Hautglättung=teilweise passend (3.00/5 Likert-Skala; n=2)",skin_smoothness_variant_5,skin_smoothness
+abb_kategorie_skin_smoothness_v05.png,3,7228975173284744491,RI,Hautglättung | RI | id=744491,"Modell: highpass_idx=0.09 (sehr glatte stark geglättete Haut); dog_idx=0.19 (sehr glatte stark geglättete Haut); face_frames=9
+Menschliche Bewertung des Modells: Hautglättung=sehr gut passend (5.00/5 Likert-Skala; n=2)",skin_smoothness_variant_5,skin_smoothness
+abb_kategorie_face_orientation_v05.png,1,7174800420806708522,RI,Gesichtsorientierung | RI | id=708522,"Modell: orientation=Frontal; pitch=6.43; yaw=-1.23
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_orientation_variant_5,face_orientation
+abb_kategorie_face_orientation_v05.png,2,7491713457146875158,RI,Gesichtsorientierung | RI | id=875158,"Modell: orientation=Left; pitch=9.02; yaw=-14.61
+Menschliche Bewertung des Modells: Gesichtsorientierung=sehr gut passend (5.00/5 Likert-Skala; n=2)",face_orientation_variant_5,face_orientation
+abb_kategorie_face_orientation_v05.png,3,7014189798315298053,VI,Gesichtsorientierung | VI | id=298053,"Modell: orientation=Down; pitch=12.19; yaw=-9.32
+Menschliche Bewertung des Modells: Gesichtsorientierung=teilweise passend (3.00/5 Likert-Skala; n=2)",face_orientation_variant_5,face_orientation
+abb_kategorie_brightness_v05.png,1,7034987201482001670,VI,Helligkeit | VI | id=001670,"Modell: brightness_idx=122.27 (mittel hell)
+Menschliche Bewertung des Modells: Helligkeit=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",brightness_variant_5,brightness
+abb_kategorie_brightness_v05.png,2,7027954993026190598,VI,Helligkeit | VI | id=190598,"Modell: brightness_idx=129.82 (mittel hell)
+Menschliche Bewertung des Modells: Helligkeit=gut passend (4.00/5 Likert-Skala; n=2)",brightness_variant_5,brightness
+abb_kategorie_brightness_v05.png,3,7537330858357706006,VI,Helligkeit | VI | id=706006,"Modell: brightness_idx=93.27 (sehr dunkel)
+Menschliche Bewertung des Modells: Helligkeit=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",brightness_variant_5,brightness
+abb_kategorie_contrast_v05.png,1,7496943419483278635,RI,Kontrast | RI | id=278635,"Modell: contrast_idx=58.00 (mittlerer Kontrast)
+Menschliche Bewertung des Modells: Kontrast=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",contrast_variant_5,contrast
+abb_kategorie_contrast_v05.png,2,7027954993026190598,VI,Kontrast | VI | id=190598,"Modell: contrast_idx=65.59 (eher hoher Kontrast)
+Menschliche Bewertung des Modells: Kontrast=gut passend (4.00/5 Likert-Skala; n=2)",contrast_variant_5,contrast
+abb_kategorie_contrast_v05.png,3,7014189798315298053,VI,Kontrast | VI | id=298053,"Modell: contrast_idx=81.33 (sehr hoher Kontrast)
+Menschliche Bewertung des Modells: Kontrast=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",contrast_variant_5,contrast
+abb_kategorie_saturation_v05.png,1,7491097821064482070,RI,Sättigung | RI | id=482070,"Modell: saturation_idx=63.38 (sehr geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",saturation_variant_5,saturation
+abb_kategorie_saturation_v05.png,2,7242309744612953390,RI,Sättigung | RI | id=953390,"Modell: saturation_idx=51.03 (sehr geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=gut passend (4.00/5 Likert-Skala; n=2)",saturation_variant_5,saturation
+abb_kategorie_saturation_v05.png,3,7517473852260240654,RI,Sättigung | RI | id=240654,"Modell: saturation_idx=94.02 (eher geringe Farbsättigung)
+Menschliche Bewertung des Modells: Sättigung=teilweise passend (3.00/5 Likert-Skala; n=2)",saturation_variant_5,saturation
+abb_kategorie_sharpness_v05.png,1,7491097821064482070,RI,Schärfe | RI | id=482070,"Modell: laplacian_mean=1258.75 (eher scharf)
+Menschliche Bewertung des Modells: Schärfe=sehr gut passend (5.00/5 Likert-Skala; n=2)",sharpness_variant_5,sharpness
+abb_kategorie_sharpness_v05.png,2,7496943419483278635,RI,Schärfe | RI | id=278635,"Modell: laplacian_mean=243.36 (sehr unscharf)
+Menschliche Bewertung des Modells: Schärfe=gut passend (4.00/5 Likert-Skala; n=2)",sharpness_variant_5,sharpness
+abb_kategorie_sharpness_v05.png,3,7516618844039957802,RI,Schärfe | RI | id=957802,"Modell: laplacian_mean=297.38 (sehr unscharf)
+Menschliche Bewertung des Modells: Schärfe=teilweise passend (3.00/5 Likert-Skala; n=2)",sharpness_variant_5,sharpness
+abb_kategorie_aesthetic_quality_v05.png,1,7517473852260240654,RI,Ästhetik | RI | id=240654,"Modell: aesthetic_score=4.92 (mittlere visuelle qualitaet); frames=92
+Menschliche Bewertung des Modells: Ästhetik=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",aesthetic_quality_variant_5,aesthetic_quality
+abb_kategorie_aesthetic_quality_v05.png,2,7129589619099847982,VI,Ästhetik | VI | id=847982,"Modell: aesthetic_score=3.91 (sehr niedrige visuelle qualitaet); frames=8
+Menschliche Bewertung des Modells: Ästhetik=gut passend (4.00/5 Likert-Skala; n=2)",aesthetic_quality_variant_5,aesthetic_quality
+abb_kategorie_aesthetic_quality_v05.png,3,7174800420806708522,RI,Ästhetik | RI | id=708522,"Modell: aesthetic_score=4.30 (eher niedrige visuelle qualitaet); frames=22
+Menschliche Bewertung des Modells: Ästhetik=teilweise passend (3.00/5 Likert-Skala; n=2)",aesthetic_quality_variant_5,aesthetic_quality
+abb_kategorie_filter_strength_v05.png,1,7027954993026190598,VI,Filterstärke | VI | id=190598,"Modell: filter=stark (sehr starke Filterwirkung); prob=0.99; frames=10
+Menschliche Bewertung des Modells: Filterstärke=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",filter_strength_variant_5,filter_strength
+abb_kategorie_filter_strength_v05.png,2,7174800420806708522,RI,Filterstärke | RI | id=708522,"Modell: filter=stark (sehr starke Filterwirkung); prob=1.00; frames=12
+Menschliche Bewertung des Modells: Filterstärke=zwischen gut passend und sehr gut passend (4.50/5 Likert-Skala; n=2)",filter_strength_variant_5,filter_strength
+abb_kategorie_filter_strength_v05.png,3,7517473852260240654,RI,Filterstärke | RI | id=240654,"Modell: filter=stark (sehr starke Filterwirkung); prob=1.00; frames=12
+Menschliche Bewertung des Modells: Filterstärke=zwischen teilweise passend und gut passend (3.50/5 Likert-Skala; n=2)",filter_strength_variant_5,filter_strength
+abb_kategorie_personen_anzahl_v05.png,1,7512643920539700526,RI,Personenzahl | RI | id=700526,"Modell: persons=1.08; max=2; frames=24
+Menschliche Bewertung des Modells: Personenzahl=sehr gut passend (5.00/5 Likert-Skala; n=2)",personen_anzahl_variant_5,personen_anzahl
+abb_kategorie_personen_anzahl_v05.png,2,7535881652539510038,VI,Personenzahl | VI | id=510038,"Modell: persons=1.67; max=3; frames=9
+Menschliche Bewertung des Modells: Personenzahl=gut passend (4.00/5 Likert-Skala; n=2)",personen_anzahl_variant_5,personen_anzahl
+abb_kategorie_personen_anzahl_v05.png,3,7573527601692626189,RI,Personenzahl | RI | id=626189,"Modell: persons=3.21; max=7; frames=24
+Menschliche Bewertung des Modells: Personenzahl=eher schlecht passend (2.00/5 Likert-Skala; n=2)",personen_anzahl_variant_5,personen_anzahl

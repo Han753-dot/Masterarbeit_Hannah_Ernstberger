@@ -1,0 +1,851 @@
+sample_type,sample_label,video_id,_video_stem,eval_column,feature,feature_group,is_overall,rating_annotator_1,rating_annotator_2,raw_annotator_1,raw_annotator_2,applicable_annotator_1,applicable_annotator_2,both_numeric,n_numeric_ratings,absolute_difference,exact_agreement,within_one_agreement,same_applicability
+AI,VI,6988896764241693958,6988896764241693958,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,6988896764241693958,6988896764241693958,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_saturation,Sättigung,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,6988896764241693958,6988896764241693958,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+AI,VI,7014189798315298053,7014189798315298053,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_contrast,Kontrast,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7014189798315298053,7014189798315298053,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_body_pose,Körperpose,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7027954993026190598,7027954993026190598,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7027954993026190598,7027954993026190598,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7027954993026190598,7027954993026190598,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_brightness,Helligkeit,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_contrast,Kontrast,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7032242293411286273,7032242293411286273,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7034987201482001670,7034987201482001670,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_body_pose,Körperpose,Inhalt & Semantik,False,4.0,2.0,4_gut_passend,2_eher_schlecht,1,1,True,2,2.0,False,False,True
+AI,VI,7034987201482001670,7034987201482001670,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7034987201482001670,7034987201482001670,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_saturation,Sättigung,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7037583058626759941,7037583058626759941,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7129589619099847982,7129589619099847982,eval_body_pose,Körperpose,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7129589619099847982,7129589619099847982,eval_contrast,Kontrast,Bildqualität,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7129589619099847982,7129589619099847982,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,2.0,3_teilweise_passend,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7129589619099847982,7129589619099847982,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+AI,VI,7129589619099847982,7129589619099847982,eval_saturation,Sättigung,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,1.0,1.0,1_sehr_schlecht,1_sehr_schlecht,1,1,True,2,0.0,True,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7129589619099847982,7129589619099847982,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,2.0,4_gut_passend,2_eher_schlecht,1,1,True,2,2.0,False,False,True
+AI,VI,7258222058293710088,7258222058293710088,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7258222058293710088,7258222058293710088,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7258222058293710088,7258222058293710088,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_brightness,Helligkeit,Bildqualität,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7258222058293710088,7258222058293710088,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7258222058293710088,7258222058293710088,eval_saturation,Sättigung,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7258222058293710088,7258222058293710088,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7265585005022203137,7265585005022203137,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,,2.0,Unbestimmt,2_eher_schlecht,0,1,False,1,,False,False,False
+AI,VI,7265585005022203137,7265585005022203137,eval_body_pose,Körperpose,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_contrast,Kontrast,Bildqualität,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,1.0,3.0,1_sehr_schlecht,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7265585005022203137,7265585005022203137,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,2.0,5_sehr_gut_passend,2_eher_schlecht,1,1,True,2,3.0,False,False,True
+AI,VI,7265585005022203137,7265585005022203137,eval_saturation,Sättigung,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_sharpness,Schärfe,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7265585005022203137,7265585005022203137,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_saturation,Sättigung,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,4.0,2.0,4_gut_passend,2_eher_schlecht,1,1,True,2,2.0,False,False,True
+AI,VI,7452207597907676424,7452207597907676424,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7452207597907676424,7452207597907676424,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7465128290244742442,7465128290244742442,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7465128290244742442,7465128290244742442,eval_saturation,Sättigung,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_sharpness,Schärfe,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7465128290244742442,7465128290244742442,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_body_pose,Körperpose,Inhalt & Semantik,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_contrast,Kontrast,Bildqualität,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7467202100674497834,7467202100674497834,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7467202100674497834,7467202100674497834,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,3.0,2.0,3_teilweise_passend,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7467202100674497834,7467202100674497834,eval_sharpness,Schärfe,Bildqualität,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7467202100674497834,7467202100674497834,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_saturation,Sättigung,Bildqualität,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7511522578217946414,7511522578217946414,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7511522578217946414,7511522578217946414,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7513173382473485590,7513173382473485590,eval_sharpness,Schärfe,Bildqualität,False,2.0,5.0,2_eher_schlecht,5_sehr_gut_passend,1,1,True,2,3.0,False,False,True
+AI,VI,7513173382473485590,7513173382473485590,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7516241082754010414,7516241082754010414,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_contrast,Kontrast,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_sharpness,Schärfe,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516241082754010414,7516241082754010414,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7516376664570416426,7516376664570416426,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7516376664570416426,7516376664570416426,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7516376664570416426,7516376664570416426,eval_sharpness,Schärfe,Bildqualität,False,3.0,5.0,3_teilweise_passend,5_sehr_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7516376664570416426,7516376664570416426,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7516564086872624397,7516564086872624397,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7516564086872624397,7516564086872624397,eval_body_pose,Körperpose,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_brightness,Helligkeit,Bildqualität,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7516564086872624397,7516564086872624397,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7516564086872624397,7516564086872624397,eval_saturation,Sättigung,Bildqualität,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7516564086872624397,7516564086872624397,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7517780483581693197,7517780483581693197,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7517780483581693197,7517780483581693197,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_saturation,Sättigung,Bildqualität,False,4.0,2.0,4_gut_passend,2_eher_schlecht,1,1,True,2,2.0,False,False,True
+AI,VI,7517780483581693197,7517780483581693197,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7517780483581693197,7517780483581693197,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7517780483581693197,7517780483581693197,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7521175951602945293,7521175951602945293,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_contrast,Kontrast,Bildqualität,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521175951602945293,7521175951602945293,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_body_pose,Körperpose,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7521178249104313655,7521178249104313655,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,1.0,3.0,1_sehr_schlecht,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7521178249104313655,7521178249104313655,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7521178249104313655,7521178249104313655,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7535881652539510038,7535881652539510038,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_body_pose,Körperpose,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7535881652539510038,7535881652539510038,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_sharpness,Schärfe,Bildqualität,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7535881652539510038,7535881652539510038,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7537330858357706006,7537330858357706006,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+AI,VI,7537330858357706006,7537330858357706006,eval_brightness,Helligkeit,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7537330858357706006,7537330858357706006,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7537330858357706006,7537330858357706006,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,1.0,3.0,1_sehr_schlecht,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7538416839257230614,7538416839257230614,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_contrast,Kontrast,Bildqualität,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7538416839257230614,7538416839257230614,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7538416839257230614,7538416839257230614,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7538416839257230614,7538416839257230614,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+AI,VI,7565209380782755075,7565209380782755075,eval_brightness,Helligkeit,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,5.0,3_teilweise_passend,5_sehr_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7565209380782755075,7565209380782755075,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_saturation,Sättigung,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565209380782755075,7565209380782755075,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+AI,VI,7565897317576871190,7565897317576871190,eval_brightness,Helligkeit,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_contrast,Kontrast,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+AI,VI,7565897317576871190,7565897317576871190,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+AI,VI,7565897317576871190,7565897317576871190,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_brightness,Helligkeit,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_sharpness,Schärfe,Bildqualität,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7174800420806708522,7174800420806708522,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_brightness,Helligkeit,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_sharpness,Schärfe,Bildqualität,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7228975173284744491,7228975173284744491,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_body_pose,Körperpose,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,5.0,3_teilweise_passend,5_sehr_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7242309744612953390,7242309744612953390,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_brightness,Helligkeit,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7244163083097132334,7244163083097132334,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_sharpness,Schärfe,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491097821064482070,7491097821064482070,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_contrast,Kontrast,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_saturation,Sättigung,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,1.0,1.0,1_sehr_schlecht,1_sehr_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_sharpness,Schärfe,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7491713457146875158,7491713457146875158,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_body_pose,Körperpose,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,2.0,4_gut_passend,2_eher_schlecht,1,1,True,2,2.0,False,False,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_saturation,Sättigung,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7496943419483278635,7496943419483278635,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7512643920539700526,7512643920539700526,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_brightness,Helligkeit,Bildqualität,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,1.0,1.0,1_sehr_schlecht,1_sehr_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_sharpness,Schärfe,Bildqualität,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7516618844039957802,7516618844039957802,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_body_pose,Körperpose,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,5.0,3_teilweise_passend,5_sehr_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_saturation,Sättigung,Bildqualität,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7517473852260240654,7517473852260240654,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_contrast,Kontrast,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,2.0,5.0,2_eher_schlecht,5_sehr_gut_passend,1,1,True,2,3.0,False,False,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,5.0,3_teilweise_passend,5_sehr_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7520275551416749326,7520275551416749326,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_sharpness,Schärfe,Bildqualität,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7524383521972981047,7524383521972981047,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,2.0,5.0,2_eher_schlecht,5_sehr_gut_passend,1,1,True,2,3.0,False,False,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_sharpness,Schärfe,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7550501572598320439,7550501572598320439,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_brightness,Helligkeit,Bildqualität,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,5.0,,5_sehr_gut_passend,Unbestimmt,1,0,False,1,,False,False,False
+REAL,RI,7561901530916343095,7561901530916343095,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7561901530916343095,7561901530916343095,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,,3.0,Unbestimmt,3_teilweise_passend,0,1,False,1,,False,False,False
+REAL,RI,7564790156624973069,7564790156624973069,eval_body_pose,Körperpose,Inhalt & Semantik,False,,,Unbestimmt,Unbestimmt,0,0,False,0,,False,False,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,,,Unbestimmt,Unbestimmt,0,0,False,0,,False,False,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,,,Unbestimmt,Unbestimmt,0,0,False,0,,False,False,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,,4.0,Unbestimmt,4_gut_passend,0,1,False,1,,False,False,False
+REAL,RI,7564790156624973069,7564790156624973069,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,,3.0,Unbestimmt,3_teilweise_passend,0,1,False,1,,False,False,False
+REAL,RI,7564790156624973069,7564790156624973069,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_sharpness,Schärfe,Bildqualität,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7564790156624973069,7564790156624973069,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,,5.0,Unbestimmt,5_sehr_gut_passend,0,1,False,1,,False,False,False
+REAL,RI,7573473414455889166,7573473414455889166,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_contrast,Kontrast,Bildqualität,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573473414455889166,7573473414455889166,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_brightness,Helligkeit,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_contrast,Kontrast,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_saturation,Sättigung,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7573527601692626189,7573527601692626189,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7577558634071133454,7577558634071133454,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_contrast,Kontrast,Bildqualität,False,4.0,2.0,4_gut_passend,2_eher_schlecht,1,1,True,2,2.0,False,False,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,3.0,5.0,3_teilweise_passend,5_sehr_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,5.0,2_eher_schlecht,5_sehr_gut_passend,1,1,True,2,3.0,False,False,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_sharpness,Schärfe,Bildqualität,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579347487303961870,7579347487303961870,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_brightness,Helligkeit,Bildqualität,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,3.0,5.0,3_teilweise_passend,5_sehr_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7579666136371957005,7579666136371957005,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_body_pose,Körperpose,Inhalt & Semantik,False,2.0,3.0,2_eher_schlecht,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,2.0,5_sehr_gut_passend,2_eher_schlecht,1,1,True,2,3.0,False,False,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,4.0,2.0,4_gut_passend,2_eher_schlecht,1,1,True,2,2.0,False,False,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7580098823427558711,7580098823427558711,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,3.0,4_gut_passend,3_teilweise_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_saturation,Sättigung,Bildqualität,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7581196165069180174,7581196165069180174,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,3.0,1_sehr_schlecht,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_brightness,Helligkeit,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,,5.0,Unbestimmt,5_sehr_gut_passend,0,1,False,1,,False,False,False
+REAL,RI,7583896240472034591,7583896240472034591,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,,5.0,Unbestimmt,5_sehr_gut_passend,0,1,False,1,,False,False,False
+REAL,RI,7583896240472034591,7583896240472034591,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,1.0,2.0,1_sehr_schlecht,2_eher_schlecht,1,1,True,2,1.0,False,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_sharpness,Schärfe,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7583896240472034591,7583896240472034591,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,,4.0,Unbestimmt,4_gut_passend,0,1,False,1,,False,False,False
+REAL,RI,7585430559300521230,7585430559300521230,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_body_pose,Körperpose,Inhalt & Semantik,False,3.0,3.0,3_teilweise_passend,3_teilweise_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_brightness,Helligkeit,Bildqualität,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_contrast,Kontrast,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,2.0,5.0,2_eher_schlecht,5_sehr_gut_passend,1,1,True,2,3.0,False,False,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,2.0,4.0,2_eher_schlecht,4_gut_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_sharpness,Schärfe,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7585430559300521230,7585430559300521230,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_aesthetic_quality,Ästhetische Qualität,Visuelle Wirkung,False,5.0,3.0,5_sehr_gut_passend,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_beauty_score,Schönheitsbewertung,Visuelle Wirkung,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_body_pose,Körperpose,Inhalt & Semantik,False,1.0,,1_sehr_schlecht,Unbestimmt,1,0,False,1,,False,False,False
+REAL,RI,7586737085831286071,7586737085831286071,eval_brightness,Helligkeit,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_camera_distance,Kameradistanz,Kamera & Schnitt,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_camera_stability,Kamerastabilität,Kamera & Schnitt,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_contrast,Kontrast,Bildqualität,False,3.0,4.0,3_teilweise_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_cuts_dynamik,Schnittdynamik,Kamera & Schnitt,False,2.0,2.0,2_eher_schlecht,2_eher_schlecht,1,1,True,2,0.0,True,True,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_face_emotion,Gesichtsemotion,Inhalt & Semantik,False,1.0,,1_sehr_schlecht,Unbestimmt,1,0,False,1,,False,False,False
+REAL,RI,7586737085831286071,7586737085831286071,eval_face_orientation,Gesichtsausrichtung,Inhalt & Semantik,False,1.0,,1_sehr_schlecht,Unbestimmt,1,0,False,1,,False,False,False
+REAL,RI,7586737085831286071,7586737085831286071,eval_filter_strength,Filterstärke,Visuelle Wirkung,False,1.0,4.0,1_sehr_schlecht,4_gut_passend,1,1,True,2,3.0,False,False,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_overall_model_quality,Gesamtqualität der Modellannotation,Gesamturteil,True,1.0,3.0,1_sehr_schlecht,3_teilweise_passend,1,1,True,2,2.0,False,False,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_personen_anzahl,Personenanzahl,Inhalt & Semantik,False,5.0,4.0,5_sehr_gut_passend,4_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_saturation,Sättigung,Bildqualität,False,4.0,4.0,4_gut_passend,4_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_scene_context,Szenenkontext,Inhalt & Semantik,False,5.0,5.0,5_sehr_gut_passend,5_sehr_gut_passend,1,1,True,2,0.0,True,True,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_sharpness,Schärfe,Bildqualität,False,4.0,5.0,4_gut_passend,5_sehr_gut_passend,1,1,True,2,1.0,False,True,True
+REAL,RI,7586737085831286071,7586737085831286071,eval_skin_smoothness,Hautglättung,Visuelle Wirkung,False,,,Unbestimmt,Unbestimmt,0,0,False,0,,False,False,True

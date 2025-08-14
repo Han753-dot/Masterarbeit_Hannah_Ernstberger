@@ -1,0 +1,11 @@
+﻿position,video_id,type,author_username,author_displayname,tier,video_view_count,video_like_count,video_comment_count,frame_path
+1,7516241082754010414,VI,ai.kalai,kalai.ai,Nano Virtual,33100,269,4,exports/examples/frames/abb_kategorie_aesthetic_quality_v03_01_VI_7516241082754010414.jpeg
+2,7537330858357706006,VI,millas_sofia,Milla Sofia,Micro Virtual,455500,14600,443,exports/examples/frames/abb_datasetbeispiele_vi_ri_v03_02_VI_7537330858357706006.jpeg
+3,7467202100674497834,VI,brexleyai,brexleyai,Micro Virtual,11100,57,10,exports/examples/frames/abb_human_evaluation_modellplausibilitaet_02_VI_7467202100674497834.jpeg
+4,7032242293411286273,VI,imma.tokyo,imma,Macro Virtual,1300000,69000,402,exports/examples/frames/abb_human_evaluation_modellplausibilitaet_v04_02_VI_7032242293411286273.jpeg
+5,7027954993026190598,VI,lilmiquela,LIL MIQUELA,Mega Virtual,13100000,1400000,5251,exports/examples/frames/abb_fazit_kommentarraum_vi_ri_02_VI_7027954993026190598.jpeg
+6,7520275551416749326,RI,misshannahashton,Hannah Ashton,Nano Real,3831,251,9,exports/examples/frames/abb_kategorie_camera_distance_v04_03_RI_7520275551416749326.jpeg
+7,7586650207677418766,RI,nobodywhoareu,Sara,Nano/Micro Real,187300,3323,2008,exports/examples/frames/abb_datasetbeispiele_vi_ri_v05_05_RI_7586650207677418766.jpeg
+8,7579347487303961870,RI,hollybrandmusic,Holly Brand,Micro Real,2332,42,2,exports/examples/frames/abb_kategorie_beauty_score_v03_03_RI_7579347487303961870.jpeg
+9,7577086972745813262,RI,ericanic0le,ERICA NICOLE,Macro Real,73100,1137,460,exports/examples/frames/abb_datasetbeispiele_vi_ri_v02_04_RI_7577086972745813262.jpeg
+10,7228975173284744491,RI,jessicawangofficial,Jessica Wang,Mega Real,13500000,22000,67,exports/examples/frames/abb_human_evaluation_modellplausibilitaet_v02_03_RI_7228975173284744491.jpeg

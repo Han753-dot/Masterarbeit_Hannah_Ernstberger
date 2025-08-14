@@ -1,0 +1,39 @@
+Kategorie,feature_group,metric_name,rho_engagement,p_engagement,signifikant_05
+Gesichtsorientierung | Mittlere vertikale Gesichtsausrichtung,angle_face_orientation,face_pitch_mean,-0.21926128754616445,9.297853840893868e-07,True
+Schnittdynamik | Bildrate des Videos,cuts,video_fps,0.18644393310098417,2.723651906271262e-05,True
+Schnittdynamik | Analysierte Frames,cuts,frames_scanned,0.15610264011426062,0.00045948973206298455,True
+Ästhetische Gesamtqualität | Anzahl ästhetisch bewerteter Frames,aesthetic_quality,aesthetic_quality_scored_frames,0.14263837446403818,0.0013844467122419624,True
+Körperhaltung und Pose | Anteil erkannter Pose-Frames,body_pose,detected_pose_frames,0.14263837446403818,0.0013844467122419624,True
+Emotionale Gesichtswirkung | Anteil emotional auswertbarer Frames,face_emotion,detected_emotion_frames,0.14263837446403818,0.0013844467122419624,True
+Schnittdynamik | Geschätzte Videodauer,cuts,video_duration_seconds_est,0.1394061245428574,0.001779958358817154,True
+Szenenklassifikation | Vielfalt erkannter Szenen,scene_classification,scene_unique_labels,0.1393061445549474,0.0017936996576082926,True
+Hauttextur und Hautglättung | Anzahl auswertbarer Hautframes,skin_smoothness,detected_skin_face_frames,0.11330075712866904,0.01123480261162158,True
+Hauttextur und Hautglättung | Hautglättung (DoG),skin_smoothness,skin_smoothness_dog_index,-0.11204117048769001,0.012620063166206232,True
+Personenanzahl | Anteil erkannter Personenframes,structural_personen_anzahl,detected_person_frames,0.10957299647332072,0.014230984839996002,True
+Bildschärfe | Streuung der Bildschärfe,visual_sharpness,sharpness_laplacian_std,0.10405040020160079,0.01995812819508848,True
+Filter-/Artefaktmerkmale | Wahrscheinlichkeit für Filtereinsatz,visual_filter,filter_strength_prob,0.10299727598910395,0.02125332389999492,True
+Hauttextur und Hautglättung | Hautglättung (Highpass),skin_smoothness,skin_smoothness_highpass_index,-0.10333087964666912,0.021487196509668502,True
+Gesichtsorientierung | Anteil erkannter Gesichtsframes,angle_face_orientation,detected_face_frames,0.09912637048021983,0.026660929020985727,True
+Hauttextur und Hautglättung | Texturkontrast der Haut,skin_smoothness,skin_texture_dog_var,0.09692695533103003,0.03107464796149004,True
+Hauttextur und Hautglättung | Feinstruktur der Hauttextur,skin_smoothness,skin_texture_laplacian_var,0.09068093762491046,0.04373945600826226,True
+Gesichtsorientierung | Mittlere horizontale Gesichtsausrichtung,angle_face_orientation,face_yaw_mean,-0.08486753815740418,0.06022575931546401,False
+Hauttextur und Hautglättung | Hochfrequente Hauttextur,skin_smoothness,skin_texture_highpass_var,0.08389125023250661,0.062176857930678,False
+Attraktivitätsbewertung | Anzahl bewertbarer Gesichtsframes,beauty_scoring,beauty_detected_face_frames,0.07436304892667277,0.09672412887910968,False
+Helligkeit und Kontrast | Durchschnittliche Helligkeit,brightness_contrast,brightness_index,-0.06652433009732038,0.13742413017188507,False
+Emotionale Gesichtswirkung | Vielfalt erkannter Emotionen,face_emotion,emotion_unique_labels,-0.0662468113698775,0.13907578773838902,False
+Farbsättigung | Farbsättigung,saturation,saturation_index,0.06283983535934143,0.16061342956252667,False
+Personenanzahl | Durchschnittliche Personenzahl,structural_personen_anzahl,personen_anzahl,-0.054825670718564354,0.2210308981739513,False
+Kameradistanz | Vielfalt erkannter Kameradistanzen,camera_distance,camera_distance_unique_labels,0.05181922650857875,0.24743983762572827,False
+Schnittdynamik | Absolute Anzahl der Schnitte,cuts,cut_count,0.051668550872899933,0.24881901584229568,False
+Schnittdynamik | Schnittdichte pro Sekunde,cuts,cuts_per_second,0.051069157896968954,0.254358458536464,False
+Filter-/Artefaktmerkmale | Streuung der Filterstärke,visual_filter,filter_strength_std,-0.04861478645914583,0.27793029137992725,False
+Schnittdynamik | Schnittdichte pro Frame,cuts,cuts_per_frame,0.04837658850913121,0.28029442694943346,False
+Helligkeit und Kontrast | Bildkontrast,brightness_contrast,contrast_index,0.044306481225924906,0.32279576438326263,False
+Attraktivitätsbewertung | Streuung der Attraktivitätsbewertung,beauty_scoring,beauty_score_std,0.03905729702887628,0.38977103198059504,False
+Ästhetische Gesamtqualität | Ästhetische Qualitätsbewertung,aesthetic_quality,aesthetic_quality_score,0.03772479089916359,0.3999333262148732,False
+Bildschärfe | Durchschnittliche Bildschärfe,visual_sharpness,sharpness_laplacian_mean,0.03445578582314329,0.44203893350859635,False
+Kamerastabilität | Streuung der Bewegungsstärke,camera_stability,optical_flow_magnitude_std,0.03284787539150156,0.4636436778513944,False
+Kamerastabilität | Durchschnittliche Bewegungsstärke,camera_stability,optical_flow_magnitude_mean,0.02886453145812583,0.5196083162084479,False
+Kamerastabilität | Stabilitätsindex,camera_stability,stability_index,-0.02886453145812583,0.5196083162084479,False
+Attraktivitätsbewertung | Mittlere Attraktivitätsbewertung,beauty_scoring,beauty_score_mean,0.019511342673111505,0.6675505135150224,False
+Personenanzahl | Maximale Personenzahl,structural_personen_anzahl,personen_anzahl_max,-0.006220665507897071,0.8896465162402725,False

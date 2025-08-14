@@ -1,0 +1,13 @@
+﻿figure,position,video_id,type,example_label,source_figure,source_position,subtitle,frame_path
+abb_modellbewertung_gut_vs_schwaecher_beispiele.png,1,7129589619099847982,VI,Schnittdynamik,abb_kategorie_cuts_v02.png,1,"Modell: cut_count=3 (sehr wenige Schnitte); cuts_s=0.40 (sehr ruhig kaum Schnitte); frames=225
+Menschliche Bewertung des Modells: Schnitte/Dynamik=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_cuts_v02_01_VI_7129589619099847982.jpeg
+abb_modellbewertung_gut_vs_schwaecher_beispiele.png,2,7014189798315298053,VI,Kamerastabilität,abb_kategorie_camera_stability_v03.png,1,"Modell: stability_idx=1.00 (sehr stabil); flow_mean=0.00 (sehr ruhig kaum Bewegung); pairs=17
+Menschliche Bewertung des Modells: Stabilität=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_camera_stability_v03_01_VI_7014189798315298053.jpeg
+abb_modellbewertung_gut_vs_schwaecher_beispiele.png,3,7467202100674497834,VI,Kameradistanz,abb_kategorie_camera_distance_v01.png,2,"Modell: distance=medCloseUp; p=0.76; frames=10
+Menschliche Bewertung des Modells: Kameradistanz=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_camera_distance_v01_02_VI_7467202100674497834.jpeg
+abb_modellbewertung_gut_vs_schwaecher_beispiele.png,4,7573527601692626189,RI,Szenenkontext,abb_kategorie_scene_v04.png,3,"Modell: scene=airplane; p=0.45; scene_n=3
+Menschliche Bewertung des Modells: Szene=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_scene_v04_03_RI_7573527601692626189.jpeg
+abb_modellbewertung_gut_vs_schwaecher_beispiele.png,5,7228975173284744491,RI,Hautglättung,abb_kategorie_skin_smoothness_v02.png,3,"Modell: highpass_idx=0.09 (sehr glatte stark geglättete Haut); dog_idx=0.19 (sehr glatte stark geglättete Haut); face_frames=9
+Menschliche Bewertung des Modells: Hautglättung=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_skin_smoothness_v02_03_RI_7228975173284744491.jpeg
+abb_modellbewertung_gut_vs_schwaecher_beispiele.png,6,7014189798315298053,VI,Beauty Score,abb_kategorie_beauty_score_v02.png,3,"Modell: beauty_mean=22.75 (sehr niedriger Beauty-Score); sd=0.66; face_frames=6
+Menschliche Bewertung des Modells: Beauty-Score=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_beauty_score_v02_03_VI_7014189798315298053.jpeg

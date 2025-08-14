@@ -1,0 +1,235 @@
+<View>
+  <Header value="Video Annotation Interface"/>
+
+  <Text name="video_id_meta" value="Video ID: $video_id"/>
+  <Text name="source_meta" value="Typ: $influencer_type"/>
+  <Text name="influencer_meta" value="Influencer: $influencer"/>
+  <Text name="caption_meta" value="Caption: $video_caption"/>
+
+  <Video name="video" value="$local_video_url"/>
+
+  <Header value="Bewertung der Modellannotation"/>
+  <Text name="general_instruction" value="Bewerte pro Kategorie, wie gut die angezeigte Modellannotation zum Video passt. 1 = sehr schlecht / klar falsch, 2 = eher schlecht, 3 = teilweise passend, 4 = gut passend, 5 = sehr gut passend. Falls mehrere Ausprägungen im Video vorkommen, beziehe dich auf die Ausprägung, die am längsten sichtbar oder insgesamt dominant ist. Wähle Unbestimmt, wenn die Kategorie nicht sinnvoll beurteilbar ist."/>
+
+  <Header value="Szenerischer Kontext"/>
+  <Text name="scene_instruction" value="Bewerte, ob der erkannte dominante Szenenkontext zum Video passt."/>
+  <Text name="scene_model" value="Modellannotation: $scene_classification__scene_top1_label"/>
+  <Text name="scene_info" value="Confidence: $scene_classification__scene_top1_confidence | Weitere Labels: $scene_classification__scene_unique_labels"/>
+  <Choices name="eval_scene_context" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Gesichtsorientierung"/>
+  <Text name="face_orientation_instruction" value="Bewerte, ob die dominante Gesichts- bzw. Blickrichtung korrekt erfasst wurde."/>
+  <Text name="face_orientation_model" value="Modellannotation: $angle_face_orientation__angle_face_orientation"/>
+  <Text name="face_orientation_info" value="Pitch: $angle_face_orientation__face_pitch_mean | Yaw: $angle_face_orientation__face_yaw_mean | Face-Frames: $angle_face_orientation__detected_face_frames"/>
+  <Choices name="eval_face_orientation" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Kameradistanz"/>
+  <Text name="camera_distance_instruction" value="Bewerte, ob die dominante Kameradistanz bzw. Einstellungsgröße korrekt erfasst wurde."/>
+  <Text name="camera_distance_model" value="Modellannotation: $camera_distance__camera_distance_label"/>
+  <Text name="camera_distance_info" value="Confidence: $camera_distance__camera_distance_confidence | Weitere Labels: $camera_distance__camera_distance_unique_labels"/>
+  <Choices name="eval_camera_distance" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Gesichtsemotion"/>
+  <Text name="face_emotion_instruction" value="Bewerte, ob die dominante Gesichtsemotion der sichtbaren Hauptperson korrekt erfasst wurde."/>
+  <Text name="face_emotion_model" value="Modellannotation: $face_emotion__emotion_major_beit_readable"/>
+  <Text name="face_emotion_info" value="Confidence: $face_emotion__emotion_major_beit_confidence | Weitere Labels: $face_emotion__emotion_unique_labels | Emotion-Frames: $face_emotion__detected_emotion_frames"/>
+  <Choices name="eval_face_emotion" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Body Pose"/>
+  <Text name="body_pose_instruction" value="Bewerte, ob die dominante Körperpose bzw. Pose-Orientierung korrekt erfasst wurde."/>
+  <Text name="body_pose_model" value="Modellannotation: $body_pose__pose_orientation"/>
+  <Text name="body_pose_info" value="Confidence: $body_pose__pose_confidence | Pose-Frames: $body_pose__detected_pose_frames"/>
+  <Choices name="eval_body_pose" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Personenzahl"/>
+  <Text name="personen_instruction" value="Bewerte, ob die typische Anzahl gleichzeitig sichtbarer Personen korrekt erfasst wurde."/>
+  <Text name="personen_model" value="Modellannotation: $structural_personen_anzahl__personen_anzahl"/>
+  <Text name="personen_info" value="Maximale Personenzahl: $structural_personen_anzahl__personen_anzahl_max | Erkannte Frames: $structural_personen_anzahl__detected_person_frames"/>
+  <Choices name="eval_personen_anzahl" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Helligkeit"/>
+  <Text name="brightness_instruction" value="Bewerte, ob die Modellinterpretation der Helligkeit zum visuellen Eindruck passt."/>
+  <Text name="brightness_model" value="Modellannotation: $brightness_contrast__brightness_likert_interpretation"/>
+  <Text name="brightness_info" value="Brightness Index: $brightness_contrast__brightness_index"/>
+  <Choices name="eval_brightness" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Kontrast"/>
+  <Text name="contrast_instruction" value="Bewerte, ob die Modellinterpretation des Kontrasts zum visuellen Eindruck passt."/>
+  <Text name="contrast_model" value="Modellannotation: $brightness_contrast__contrast_likert_interpretation"/>
+  <Text name="contrast_info" value="Contrast Index: $brightness_contrast__contrast_index"/>
+  <Choices name="eval_contrast" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Sättigung"/>
+  <Text name="saturation_instruction" value="Bewerte, ob die Modellinterpretation der Farbsättigung zum visuellen Eindruck passt."/>
+  <Text name="saturation_model" value="Modellannotation: $saturation__saturation_likert_interpretation"/>
+  <Text name="saturation_info" value="Saturation Index: $saturation__saturation_index"/>
+  <Choices name="eval_saturation" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Schnittdynamik"/>
+  <Text name="cuts_instruction" value="Bewerte, ob die Modellinterpretation der Schnittdynamik zum Video passt."/>
+  <Text name="cuts_model" value="Modellannotation: $cuts__cuts_per_second_likert_interpretation"/>
+  <Text name="cuts_info" value="Cut Count: $cuts__cut_count | Cuts per Second: $cuts__cuts_per_second | Cut Count Interpretation: $cuts__cut_count_likert_interpretation"/>
+  <Choices name="eval_cuts_dynamik" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Skin Smoothness"/>
+  <Text name="skin_instruction" value="Bewerte, ob die Modellinterpretation der Hautglättung bzw. Hauttextur zum sichtbaren Eindruck passt. Falls keine Haut sichtbar ist, wähle Unbestimmt."/>
+  <Text name="skin_model" value="Modellannotation: $skin_smoothness__highpass_likert_interpretation"/>
+  <Text name="skin_info" value="Highpass Index: $skin_smoothness__skin_smoothness_highpass_index | DoG Index: $skin_smoothness__skin_smoothness_dog_index | DoG Interpretation: $skin_smoothness__dog_likert_interpretation"/>
+  <Choices name="eval_skin_smoothness" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Aesthetic Quality"/>
+  <Text name="aesthetic_instruction" value="Bewerte, ob die Modellinterpretation der ästhetischen Qualität zum Gesamteindruck des Videos passt."/>
+  <Text name="aesthetic_model" value="Modellannotation: $aesthetic_quality__score_likert_interpretation"/>
+  <Text name="aesthetic_info" value="Aesthetic Quality Score: $aesthetic_quality__aesthetic_quality_score | Scored Frames: $aesthetic_quality__aesthetic_quality_scored_frames"/>
+  <Choices name="eval_aesthetic_quality" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Beauty Score"/>
+  <Text name="beauty_instruction" value="Bewerte, ob die Modellinterpretation des Beauty Scores zur wahrgenommenen Attraktivitätsinszenierung passt. Falls keine zentrale Person sichtbar ist, wähle Unbestimmt."/>
+  <Text name="beauty_model" value="Modellannotation: $beauty_scoring__beauty_score_likert_interpretation"/>
+  <Text name="beauty_info" value="Beauty Score Mean: $beauty_scoring__beauty_score_mean | Std: $beauty_scoring__beauty_score_std | Face-Frames: $beauty_scoring__beauty_detected_face_frames"/>
+  <Choices name="eval_beauty_score" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Sharpness"/>
+  <Text name="sharpness_instruction" value="Bewerte, ob die Modellinterpretation der Schärfe zum sichtbaren Schärfeeindruck passt."/>
+  <Text name="sharpness_model" value="Modellannotation: $visual_sharpness__sharpness_likert_interpretation"/>
+  <Text name="sharpness_info" value="Sharpness Mean: $visual_sharpness__sharpness_laplacian_mean | Std: $visual_sharpness__sharpness_laplacian_std"/>
+  <Choices name="eval_sharpness" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Camera Stability"/>
+  <Text name="stability_instruction" value="Bewerte, ob die Modellinterpretation der Kamerastabilität zum sichtbaren Eindruck passt."/>
+  <Text name="stability_model" value="Modellannotation: $camera_stability__stability_likert_interpretation"/>
+  <Text name="stability_info" value="Stability Index: $camera_stability__stability_index | Optical Flow: $camera_stability__optical_flow_magnitude_mean | Optical Flow Interpretation: $camera_stability__optical_flow_likert_interpretation"/>
+  <Choices name="eval_camera_stability" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Filterstärke"/>
+  <Text name="filter_instruction" value="Bewerte, ob die Modellinterpretation der Filterstärke zum sichtbaren künstlichen Look oder Filtereinsatz passt."/>
+  <Text name="filter_model" value="Modellannotation: $visual_filter__filter_strength_label"/>
+  <Text name="filter_info" value="Filter Score: $visual_filter__filter_strength_prob | Interpretation: $visual_filter__filter_strength_likert_interpretation"/>
+  <Choices name="eval_filter_strength" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Gesamtbewertung"/>
+  <Text name="overall_instruction" value="Bewerte abschließend, wie gut die Modelloutputs insgesamt zum Video passen."/>
+  <Choices name="eval_overall_model_quality" toName="video" choice="single-radio" required="true">
+    <Choice value="1_sehr_schlecht"/>
+    <Choice value="2_eher_schlecht"/>
+    <Choice value="3_teilweise_passend"/>
+    <Choice value="4_gut_passend"/>
+    <Choice value="5_sehr_gut_passend"/>
+    <Choice value="Unbestimmt"/>
+  </Choices>
+
+  <Header value="Optionaler Kommentar"/>
+  <TextArea name="eval_notes" toName="video" placeholder="Optional: Was war besonders passend, unpassend oder problematisch?" rows="4"/>
+</View>

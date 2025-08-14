@@ -1,0 +1,3 @@
+﻿Hypothese,Kategorie,Unterkategorie,Merkmal,Rohvariable,n,Chi-Quadrat,df,p,Cramér's V,Erwartete Zellen < 5,Anteil erwarteter Zellen < 5,Hinweis
+H5,Textuelle Merkmale,Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,366,24.738,16,0.07457062477361846,0.26,24,0.706,Chi-Quadrat-Voraussetzung eingeschränkt; seltene Kategorien zusammenfassen oder robust prüfen
+H5,Textuelle Merkmale,Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,366,138.105,13,5.04234463351916e-23,0.614,5,0.179,Einzelne seltene Kategorien; Chi-Quadrat-Ergebnis vorsichtig interpretieren

@@ -1,0 +1,32 @@
+﻿Kategorie,Merkmal,Rohvariable,Ausprägung,VI: n,VI: %,RI: n,RI: %
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,admiration,36,20.69,58,30.208
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,amusement,7,4.023,5,2.604
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,anger,0,0.0,1,0.521
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,annoyance,1,0.575,1,0.521
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,approval,4,2.299,4,2.083
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,confusion,0,0.0,1,0.521
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,curiosity,13,7.471,11,5.729
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,desire,0,0.0,4,2.083
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,disapproval,1,0.575,1,0.521
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,disgust,1,0.575,0,0.0
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,excitement,1,0.575,4,2.083
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,fear,1,0.575,0,0.0
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,gratitude,2,1.149,4,2.083
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,joy,1,0.575,3,1.562
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,love,8,4.598,16,8.333
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,neutral,98,56.322,76,39.583
+Textuelle Merkmale,Dominante Kommentar-Emotion,dominant_comment_emotion,sadness,0,0.0,3,1.562
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,acne | masks | mask,1,0.575,9,4.688
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,almond | pain | lyme,2,1.149,34,17.708
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,america | europe | world country,0,0.0,5,2.604
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,cgi | animated | edited,10,5.747,1,0.521
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,detroit | slay | twerk,36,20.69,9,4.688
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,gay | animated | steal,21,12.069,6,3.125
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,health | sleep | worst,10,5.747,19,9.896
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,notary | pump | mall,0,0.0,18,9.375
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,pink | jacket | noodle,8,4.598,19,9.896
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,robot | cgi | generated,26,14.943,0,0.0
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,robot | expect | song,8,4.598,8,4.167
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,robot | sophia | polar,5,2.874,2,1.042
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,song | excited | interested,15,8.621,41,21.354
+Textuelle Merkmale,Dominantes Kommentar-Topic,dominant_topic_label,song | stunning | lovely,32,18.391,21,10.938

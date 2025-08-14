@@ -1,0 +1,7 @@
+﻿Hypothese,Kategorie,Unterkategorie,Merkmal,Rohvariable,Technische Variable,n VI,M VI,n RI,M RI,U,p Mann-Whitney-U,t Welch,p Welch,Cohen's d (RI - VI),Richtung,Signifikant p < .05
+H5,Textuelle Merkmale,Textuelle Merkmale,Caption-Länge Zeichen,caption_length_chars,nein,249,126.871,248,125.798,28222.5,0.09746005342867821,0.107,0.9150593171519226,-0.01,VI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Caption-Länge Wörter,caption_length_words,nein,249,18.884,248,17.548,29366.5,0.34554447817066025,0.874,0.3825387333592648,-0.078,VI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Caption-Sentiment-Index,caption_sentiment_index,nein,249,0.457,248,0.406,31654.0,0.6271935778231936,1.121,0.2629454605341558,-0.101,VI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Kommentar-Sentiment-Index,comment_sentiment_index_mean,nein,174,0.295,192,0.503,11586.0,4.131575557888716e-07,-4.728,3.2486820716825457e-06,0.494,RI höher,*
+H5,Textuelle Merkmale,Textuelle Merkmale,Kommentar-Emotionsvielfalt,comment_emotion_unique_labels_mean,nein,174,1.944,192,2.011,15651.5,0.2971234992528964,-1.103,0.2707808581981133,0.115,RI höher,
+H5,Textuelle Merkmale,Textuelle Merkmale,Topic-Vielfalt,topic_unique_labels,nein,174,5.299,192,4.51,18091.0,0.1669570602398197,2.043,0.04185918852622475,-0.216,VI höher,

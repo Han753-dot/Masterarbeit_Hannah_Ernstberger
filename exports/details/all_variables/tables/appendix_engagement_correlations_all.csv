@@ -1,0 +1,77 @@
+﻿Hypothese,Kategorie,Merkmal,Rohvariable,Technische Variable,n,Spearman rho,p,Richtung,Signifikant p < .05
+H1,Strukturale Inszenierung und visuelle Dynamik,Videolänge,video_duration_seconds,nein,500,0.139,0.0017791795301616228,positiv,*
+H1,Strukturale Inszenierung und visuelle Dynamik,Cut Count,cuts__cut_count,nein,500,0.052,0.24881901584229568,positiv,
+H1,Strukturale Inszenierung und visuelle Dynamik,Cuts pro Sekunde,cuts__cuts_per_second,nein,500,0.051,0.254358458536464,positiv,
+H1,Strukturale Inszenierung und visuelle Dynamik,Sekunden pro Cut,seconds_per_cut,nein,285,0.012,0.8459107203099678,positiv,
+H1,Strukturale Inszenierung und visuelle Dynamik,Szenenvielfalt,scene_classification__scene_unique_labels,nein,500,0.139,0.0017936996576082926,positiv,*
+H1,Strukturale Inszenierung und visuelle Dynamik,Kameradistanzvariation,camera_distance__camera_distance_unique_labels,nein,500,0.052,0.24743983762572827,positiv,
+H1,Strukturale Inszenierung und visuelle Dynamik,Stabilitätsindex,camera_stability__stability_index,nein,500,-0.029,0.5196083162084479,negativ,
+H1,Strukturale Inszenierung und visuelle Dynamik,Analysierte Frames,cuts__frames_scanned,ja,500,0.156,0.00045948973206298455,positiv,*
+H1,Strukturale Inszenierung und visuelle Dynamik,Bildrate des Videos,cuts__video_fps,ja,500,0.186,2.723651906271262e-05,positiv,*
+H1,Strukturale Inszenierung und visuelle Dynamik,Cuts pro Frame,cuts__cuts_per_frame,ja,500,0.048,0.28029442694943346,positiv,
+H1,Strukturale Inszenierung und visuelle Dynamik,Geschätzte Videolänge,cuts__video_duration_seconds_est,ja,500,0.139,0.001779958358817154,positiv,*
+H1,Strukturale Inszenierung und visuelle Dynamik,Konfidenz der Kameradistanzklassifikation,camera_distance__camera_distance_confidence,ja,500,-0.063,0.16137880704094826,negativ,
+H1,Strukturale Inszenierung und visuelle Dynamik,Ausgewertete Frames der Kameradistanzanalyse,camera_distance__processed_frame_count,ja,500,0.14,0.001647679103313086,positiv,*
+H1,Strukturale Inszenierung und visuelle Dynamik,Konfidenz der Szenenklassifikation,scene_classification__scene_top1_confidence,ja,500,-0.065,0.14585177396010743,negativ,
+H1,Strukturale Inszenierung und visuelle Dynamik,Durchschnittliche Bewegungsstärke,camera_stability__optical_flow_magnitude_mean,ja,500,0.029,0.5196083162084479,positiv,
+H1,Strukturale Inszenierung und visuelle Dynamik,Streuung der Bewegungsstärke,camera_stability__optical_flow_magnitude_std,ja,500,0.033,0.4636436778513944,positiv,
+H1,Strukturale Inszenierung und visuelle Dynamik,Ausgewertete Frame-Paare,camera_stability__processed_frame_pairs,ja,500,0.124,0.005594834420732839,positiv,*
+H2,Bildtechnische Qualität,Helligkeit,brightness_contrast__brightness_index,nein,500,-0.067,0.13742413017188507,negativ,
+H2,Bildtechnische Qualität,Kontrast,brightness_contrast__contrast_index,nein,500,0.044,0.32279576438326263,positiv,
+H2,Bildtechnische Qualität,Sättigung,saturation__saturation_index,nein,500,0.063,0.16061342956252667,positiv,
+H2,Bildtechnische Qualität,Durchschnittliche Schärfe,visual_sharpness__sharpness_laplacian_mean,nein,500,0.034,0.44203893350859635,positiv,
+H2,Bildtechnische Qualität,Streuung der Bildschärfe,visual_sharpness__sharpness_laplacian_std,nein,500,0.104,0.01995812819508848,positiv,*
+H2,Bildtechnische Qualität,Ausgewertete Frames der Schärfeanalyse,visual_sharpness__processed_frame_count,ja,500,0.143,0.0013844467122419624,positiv,*
+H3,Ästhetik und visuelle Optimierung,Aesthetic Score,aesthetic_quality__aesthetic_quality_score,nein,500,0.038,0.3999333262148732,positiv,
+H3,Ästhetik und visuelle Optimierung,Beauty Score,beauty_scoring__beauty_score_mean,nein,487,0.02,0.6675505135150224,positiv,
+H3,Ästhetik und visuelle Optimierung,Beauty Score SD,beauty_scoring__beauty_score_std,nein,487,0.039,0.38977103198059504,positiv,
+H3,Ästhetik und visuelle Optimierung,Hautglättung Highpass,skin_smoothness__skin_smoothness_highpass_index,nein,495,-0.103,0.021487196509668502,negativ,*
+H3,Ästhetik und visuelle Optimierung,Hautglättung DoG,skin_smoothness__skin_smoothness_dog_index,nein,495,-0.112,0.012620063166206232,negativ,*
+H3,Ästhetik und visuelle Optimierung,Wahrscheinlichkeit für Filtereinsatz,visual_filter__filter_strength_prob,nein,500,0.103,0.02125332389999492,positiv,*
+H3,Ästhetik und visuelle Optimierung,Streuung der Filterstärke,visual_filter__filter_strength_std,nein,500,-0.049,0.27793029137992725,negativ,
+H3,Ästhetik und visuelle Optimierung,Anzahl ästhetisch bewerteter Frames,aesthetic_quality__aesthetic_quality_scored_frames,ja,500,0.143,0.0013844467122419624,positiv,*
+H3,Ästhetik und visuelle Optimierung,Anzahl bewertbarer Gesichtsframes,beauty_scoring__beauty_detected_face_frames,ja,500,0.074,0.09672412887910968,positiv,
+H3,Ästhetik und visuelle Optimierung,Anzahl auswertbarer Hautframes,skin_smoothness__detected_skin_face_frames,ja,500,0.113,0.01123480261162158,positiv,*
+H3,Ästhetik und visuelle Optimierung,Feinstruktur der Hauttextur,skin_smoothness__skin_texture_laplacian_var,ja,495,0.091,0.04373945600826226,positiv,*
+H3,Ästhetik und visuelle Optimierung,Hochfrequenztextur der Haut,skin_smoothness__skin_texture_highpass_var,ja,495,0.084,0.062176857930678,positiv,
+H3,Ästhetik und visuelle Optimierung,Texturkontrast der Haut,skin_smoothness__skin_texture_dog_var,ja,495,0.097,0.03107464796149004,positiv,*
+H3,Ästhetik und visuelle Optimierung,Ausgewertete Frames der Filteranalyse,visual_filter__processed_frame_count,ja,500,0.135,0.002418109461677484,positiv,*
+H4,Emotion und Präsenz,Emotionssicherheit,face_emotion__emotion_major_beit_confidence,nein,500,0.133,0.002787605903000759,positiv,*
+H4,Emotion und Präsenz,Emotionsvielfalt,face_emotion__emotion_unique_labels,nein,500,-0.066,0.13907578773838902,negativ,
+H4,Emotion und Präsenz,Anzahl emotional auswertbarer Frames,face_emotion__detected_emotion_frames,ja,500,0.143,0.0013844467122419624,positiv,*
+H4,Emotion und Präsenz,Pose Confidence,body_pose__pose_confidence,nein,500,-0.082,0.06533576236662826,negativ,
+H4,Emotion und Präsenz,Anzahl erkannter Pose-Frames,body_pose__detected_pose_frames,ja,500,0.143,0.0013844467122419624,positiv,*
+H4,Emotion und Präsenz,Personenanzahl,structural_personen_anzahl__personen_anzahl,nein,500,-0.055,0.2210308981739513,negativ,
+H4,Emotion und Präsenz,Maximale Personenanzahl,structural_personen_anzahl__personen_anzahl_max,nein,500,-0.006,0.8896465162402725,negativ,
+H4,Emotion und Präsenz,Anzahl erkannter Personenframes,structural_personen_anzahl__detected_person_frames,ja,500,0.11,0.014230984839996002,positiv,*
+H4,Emotion und Präsenz,Face Pitch,angle_face_orientation__face_pitch_mean,nein,491,-0.219,9.297853840893868e-07,negativ,*
+H4,Emotion und Präsenz,Face Yaw,angle_face_orientation__face_yaw_mean,nein,491,-0.085,0.06022575931546401,negativ,
+H4,Emotion und Präsenz,Anzahl erkannter Gesichtsframes,angle_face_orientation__detected_face_frames,ja,500,0.099,0.026660929020985727,positiv,*
+H4,Emotion und Präsenz,Gesampelte Frames der Personenanalyse,structural_personen_anzahl__sampled_frames_personen_anzahl,ja,500,0.129,0.003767372422723943,positiv,*
+H5,Textuelle Merkmale,Caption-Länge Zeichen,caption_length_chars,nein,497,0.082,0.06785354056483893,positiv,
+H5,Textuelle Merkmale,Caption-Länge Wörter,caption_length_words,nein,497,0.11,0.014534667926310158,positiv,*
+H5,Textuelle Merkmale,Caption-Sentiment-Index,caption_sentiment_index,nein,497,0.066,0.13891879179103553,positiv,
+H5,Textuelle Merkmale,Kommentar-Sentiment-Index,comment_sentiment_index_mean,nein,366,0.344,1.3786072030097147e-11,positiv,*
+H5,Textuelle Merkmale,Kommentar-Emotionsvielfalt,comment_emotion_unique_labels_mean,nein,366,-0.045,0.39548579205851864,negativ,
+H5,Textuelle Merkmale,Topic-Vielfalt,topic_unique_labels,nein,366,0.208,5.841493960048132e-05,positiv,*
+H5,Textuelle Merkmale,Anzahl analysierter Kommentare,analysed_comment_count,ja,366,0.295,9.217962665363281e-09,positiv,*
+H5,Textuelle Merkmale,Median des Kommentar-Sentiment-Index,sentiment_index_median,ja,366,0.372,1.9692780262317798e-13,positiv,*
+H5,Textuelle Merkmale,Median der Kommentar-Emotionsvielfalt,emotion_unique_labels_median,ja,366,-0.073,0.1654927414849105,negativ,
+H5,Textuelle Merkmale,Caption-Sentiment-Anteil negativ,caption_sentiment_negative,ja,497,-0.099,0.027562377897844433,negativ,*
+H5,Textuelle Merkmale,Caption-Sentiment-Anteil neutral,caption_sentiment_neutral,ja,497,-0.078,0.0816790296721092,negativ,
+H5,Textuelle Merkmale,Caption-Sentiment-Anteil positiv,caption_sentiment_positive,ja,497,0.065,0.14807468009440822,positiv,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 0,topic_share__0,nein,366,0.05,0.3414635083880557,positiv,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 1,topic_share__1,nein,366,0.289,1.822144158019512e-08,positiv,*
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 2,topic_share__2,nein,366,-0.244,2.4296652628555513e-06,negativ,*
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 3,topic_share__3,nein,366,0.026,0.6238732516927934,positiv,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 4,topic_share__4,nein,366,0.075,0.1503191493159984,positiv,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 5,topic_share__5,nein,366,0.069,0.1861992701563038,positiv,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 6,topic_share__6,nein,366,0.012,0.8216276555651897,positiv,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 7,topic_share__7,nein,366,0.133,0.011155048101445346,positiv,*
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 8,topic_share__8,nein,366,0.094,0.07184149736451251,positiv,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 9,topic_share__9,nein,366,0.406,5.400099132836236e-16,positiv,*
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 10,topic_share__10,nein,366,0.066,0.20524578329141088,positiv,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 11,topic_share__11,nein,366,0.009,0.870676628400867,positiv,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 12,topic_share__12,nein,366,0.163,0.0017315960943455155,positiv,*
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 13,topic_share__13,nein,366,-0.082,0.11607437798591644,negativ,
+Zusatzmetrik,Textuelle Merkmale,Topic-Anteil 14,topic_share__14,nein,366,0.119,0.02325180272561781,positiv,*

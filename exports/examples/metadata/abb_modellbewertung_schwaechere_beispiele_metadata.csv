@@ -1,0 +1,9 @@
+﻿figure,position,video_id,type,example_label,source_figure,source_position,subtitle,frame_path
+abb_modellbewertung_schwaechere_beispiele.png,1,7573527601692626189,RI,Szenenkontext,abb_kategorie_scene_v04.png,3,"Modell: scene=airplane; p=0.45; scene_n=3
+Menschliche Bewertung des Modells: Szene=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_scene_v04_03_RI_7573527601692626189.jpeg
+abb_modellbewertung_schwaechere_beispiele.png,2,7228975173284744491,RI,Hautglättung,abb_kategorie_skin_smoothness_v02.png,3,"Modell: highpass_idx=0.09 (sehr glatte stark geglättete Haut); dog_idx=0.19 (sehr glatte stark geglättete Haut); face_frames=9
+Menschliche Bewertung des Modells: Hautglättung=sehr gut passend (5.00/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_skin_smoothness_v02_03_RI_7228975173284744491.jpeg
+abb_modellbewertung_schwaechere_beispiele.png,3,7014189798315298053,VI,Beauty Score,abb_kategorie_beauty_score_v02.png,3,"Modell: beauty_mean=22.75 (sehr niedriger Beauty-Score); sd=0.66; face_frames=6
+Menschliche Bewertung des Modells: Beauty-Score=zwischen eher schlecht passend und teilweise passend (2.50/5 Likert-Skala; n=2)",exports/examples/frames/abb_kategorie_beauty_score_v02_03_VI_7014189798315298053.jpeg
+abb_modellbewertung_schwaechere_beispiele.png,4,7586737085831286071,RI,Körperpose,abb_kategorie_body_pose_v01.png,3,"Modell: pose=running; p=0.38; pose_frames=30
+Menschliche Bewertung des Modells: Pose=sehr schlecht passend (1.00/5 Likert-Skala; n=1)",exports/examples/frames/abb_kategorie_body_pose_v01_03_RI_7586737085831286071.jpeg

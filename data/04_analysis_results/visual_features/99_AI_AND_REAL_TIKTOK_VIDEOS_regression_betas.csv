@@ -1,0 +1,11 @@
+Kategorie,beta_std,p_engagement
+Gesichtsorientierung | Mittlere vertikale Gesichtsausrichtung,-0.15243713098022538,9.297853840893868e-07
+Bildschärfe | Streuung der Bildschärfe,-0.04580164591203191,0.01995812819508848
+Hauttextur und Hautglättung | Feinstruktur der Hauttextur,-0.03331391936838478,0.04373945600826226
+Hauttextur und Hautglättung | Hautglättung (DoG),-0.016126193709349056,0.012620063166206232
+Filter-/Artefaktmerkmale | Wahrscheinlichkeit für Filtereinsatz,-0.007703483320309698,0.02125332389999492
+Schnittdynamik | Analysierte Frames,0.006547192642100863,0.00045948973206298455
+Personenanzahl | Anteil erkannter Personenframes,0.008450840916969259,0.014230984839996002
+Hauttextur und Hautglättung | Texturkontrast der Haut,0.05626165356607835,0.03107464796149004
+Szenenklassifikation | Vielfalt erkannter Szenen,0.07300009373276799,0.0017936996576082926
+Schnittdynamik | Bildrate des Videos,0.11998357012175434,2.723651906271262e-05

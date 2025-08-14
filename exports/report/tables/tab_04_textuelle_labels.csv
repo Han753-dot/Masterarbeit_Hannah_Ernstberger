@@ -1,0 +1,38 @@
+﻿Kategorie,Label,VI: n,VI: %,RI: n,RI: %,Differenz in Prozentpunkten
+Caption-Sentiment,negative,21,8.434,34,13.71,-5.276
+Caption-Sentiment,neutral,88,35.341,76,30.645,4.696
+Caption-Sentiment,positive,140,56.225,138,55.645,0.58
+Kommentar-Sentiment,Negativ,16,9.195,18,9.375,-0.18
+Kommentar-Sentiment,Neutral,95,54.598,49,25.521,29.077
+Kommentar-Sentiment,Positiv,63,36.207,125,65.104,-28.897
+Kommentar-Emotion,admiration,36,20.69,58,30.208,-9.519
+Kommentar-Emotion,amusement,7,4.023,5,2.604,1.419
+Kommentar-Emotion,anger,0,0.0,1,0.521,-0.521
+Kommentar-Emotion,annoyance,1,0.575,1,0.521,0.054
+Kommentar-Emotion,approval,4,2.299,4,2.083,0.216
+Kommentar-Emotion,confusion,0,0.0,1,0.521,-0.521
+Kommentar-Emotion,curiosity,13,7.471,11,5.729,1.742
+Kommentar-Emotion,desire,0,0.0,4,2.083,-2.083
+Kommentar-Emotion,disapproval,1,0.575,1,0.521,0.054
+Kommentar-Emotion,disgust,1,0.575,0,0.0,0.575
+Kommentar-Emotion,excitement,1,0.575,4,2.083,-1.509
+Kommentar-Emotion,fear,1,0.575,0,0.0,0.575
+Kommentar-Emotion,gratitude,2,1.149,4,2.083,-0.934
+Kommentar-Emotion,joy,1,0.575,3,1.562,-0.988
+Kommentar-Emotion,love,8,4.598,16,8.333,-3.736
+Kommentar-Emotion,neutral,98,56.322,76,39.583,16.739
+Kommentar-Emotion,sadness,0,0.0,3,1.562,-1.562
+Dominante Topics,acne | masks | mask,1,0.575,9,4.688,-4.113
+Dominante Topics,almond | pain | lyme,2,1.149,34,17.708,-16.559
+Dominante Topics,america | europe | world country,0,0.0,5,2.604,-2.604
+Dominante Topics,cgi | animated | edited,10,5.747,1,0.521,5.226
+Dominante Topics,detroit | slay | twerk,36,20.69,9,4.688,16.002
+Dominante Topics,gay | animated | steal,21,12.069,6,3.125,8.944
+Dominante Topics,health | sleep | worst,10,5.747,19,9.896,-4.149
+Dominante Topics,notary | pump | mall,0,0.0,18,9.375,-9.375
+Dominante Topics,pink | jacket | noodle,8,4.598,19,9.896,-5.298
+Dominante Topics,robot | cgi | generated,26,14.943,0,0.0,14.943
+Dominante Topics,robot | expect | song,8,4.598,8,4.167,0.431
+Dominante Topics,robot | sophia | polar,5,2.874,2,1.042,1.832
+Dominante Topics,song | excited | interested,15,8.621,41,21.354,-12.733
+Dominante Topics,song | stunning | lovely,32,18.391,21,10.938,7.453

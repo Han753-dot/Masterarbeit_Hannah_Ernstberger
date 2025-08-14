@@ -1,0 +1,6 @@
+﻿Hypothese,Kategorie,Unterkategorie,Merkmal,Rohvariable,Technische Variable,n VI,M VI,n RI,M RI,U,p Mann-Whitney-U,t Welch,p Welch,Cohen's d (RI - VI),Richtung,Signifikant p < .05
+H2,Bildtechnische Qualität,Bildtechnische Qualität,Helligkeit,brightness_contrast__brightness_index,nein,250,114.907,250,120.949,29341.0,0.23741474957285846,-2.305,0.02165258248139028,0.206,RI höher,
+H2,Bildtechnische Qualität,Bildtechnische Qualität,Kontrast,brightness_contrast__contrast_index,nein,250,59.556,250,60.027,29868.0,0.3924241429618691,-0.552,0.5814086219389867,0.049,RI höher,
+H2,Bildtechnische Qualität,Bildtechnische Qualität,Sättigung,saturation__saturation_index,nein,250,83.861,250,66.769,39674.0,1.8417456214059317e-07,6.41,4.3862365914121504e-10,-0.573,VI höher,*
+H2,Bildtechnische Qualität,Bildtechnische Qualität,Durchschnittliche Schärfe,visual_sharpness__sharpness_laplacian_mean,nein,250,505.223,250,625.707,25585.0,0.0004537730423046515,-2.991,0.0029286114889539114,0.267,RI höher,*
+H2,Bildtechnische Qualität,Bildtechnische Qualität,Streuung der Bildschärfe,visual_sharpness__sharpness_laplacian_std,nein,250,127.82,250,215.576,19517.0,3.783044294261553e-13,-4.556,6.8137656827036435e-06,0.408,RI höher,*

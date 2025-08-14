@@ -1,0 +1,19 @@
+﻿figure,position,video_id,type,title,subtitle,source_frame,frame_path
+abb_fazit_kommentarraum_vi_ri.png,1,6988896764241693958,VI,VI: AI/CGI-Rahmung,"Künstlichkeit wird im Kommentarraum explizit sichtbar
+Dominantes Topic: robot | cgi | generated
+Kommentare=627; Sentiment=Neutral",exports/examples/frames/abb_kategorie_brightness_v01_02_VI_6988896764241693958.jpeg,exports/examples/frames/abb_fazit_kommentarraum_vi_ri_01_VI_6988896764241693958.jpeg
+abb_fazit_kommentarraum_vi_ri.png,2,7027954993026190598,VI,VI: Robotik-Rahmung,"Kommentare markieren virtuelle Identität
+Dominantes Topic: robot | sophia | polar
+Kommentare=1451; Sentiment=Neutral",exports/examples/frames/abb_human_evaluation_modellplausibilitaet_v05_02_VI_7027954993026190598.jpeg,exports/examples/frames/abb_fazit_kommentarraum_vi_ri_02_VI_7027954993026190598.jpeg
+abb_fazit_kommentarraum_vi_ri.png,3,7129589619099847982,VI,VI: animierte/edierte Lesart,"Kommentarrahmung fokussiert Gemachtheit
+Dominantes Topic: cgi | animated | edited
+Kommentare=1941; Sentiment=Neutral",exports/examples/frames/abb_kategorie_aesthetic_quality_v05_02_VI_7129589619099847982.jpeg,exports/examples/frames/abb_fazit_kommentarraum_vi_ri_03_VI_7129589619099847982.jpeg
+abb_fazit_kommentarraum_vi_ri.png,4,7512643920539700526,RI,RI: positive Bezugnahme,"Sozial-positive Reaktionen im Kommentarraum
+Dominantes Topic: song | stunning | lovely
+Kommentare=4; Sentiment=Positiv",exports/examples/frames/abb_datasetbeispiele_vi_ri_04_RI_7512643920539700526.jpeg,exports/examples/frames/abb_fazit_kommentarraum_vi_ri_04_RI_7512643920539700526.jpeg
+abb_fazit_kommentarraum_vi_ri.png,5,7520049050889080119,RI,RI: Interesse und Nähe,"Alltagsnahe bzw. relationale Kommentierung
+Dominantes Topic: song | excited | interested
+Kommentare=2; Sentiment=Positiv",exports/examples/frames/abb_datasetbeispiele_vi_ri_06_RI_7520049050889080119.jpeg,exports/examples/frames/abb_fazit_kommentarraum_vi_ri_05_RI_7520049050889080119.jpeg
+abb_fazit_kommentarraum_vi_ri.png,6,7571206423640575246,RI,RI: Alltags-/Gesundheitsrahmung,"Kommentare beziehen sich stärker auf Lebenswelt und Situation
+Dominantes Topic: health | sleep | worst
+Kommentare=16; Sentiment=Positiv",exports/examples/frames/abb_datasetbeispiele_vi_ri_05_RI_7571206423640575246.jpeg,exports/examples/frames/abb_fazit_kommentarraum_vi_ri_06_RI_7571206423640575246.jpeg

@@ -1,0 +1,19 @@
+﻿figure,position,video_id,type,title,subtitle,source_frame,frame_path
+abb_fazit_visuelle_inszenierung_vi_ri.png,1,7537330858357706006,VI,VI: farbintensive Performance,"Kontrollierte, stark gesättigte Inszenierung
+Stabilität=0.85; Cuts/s=0.00
+Sättigung=191.91; Szene=stage / indoor",exports/examples/frames/abb_datasetbeispiele_vi_ri_v03_02_VI_7537330858357706006.jpeg,exports/examples/frames/abb_fazit_visuelle_inszenierung_vi_ri_01_VI_7537330858357706006.jpeg
+abb_fazit_visuelle_inszenierung_vi_ri.png,2,7500937479499926806,VI,VI: stabile Bühneninszenierung,"Ruhige Kamera und keine Schnitte
+Stabilität=0.85; Cuts/s=0.00
+Sättigung=168.19; Szene=stage / indoor",exports/examples/frames/abb_datasetbeispiele_vi_ri_02_VI_7500937479499926806.jpeg,exports/examples/frames/abb_fazit_visuelle_inszenierung_vi_ri_02_VI_7500937479499926806.jpeg
+abb_fazit_visuelle_inszenierung_vi_ri.png,3,7525293677674007816,VI,VI: wiederholbares Set-Design,"Hohe Sättigung, stabile Aufnahme
+Stabilität=0.90; Cuts/s=0.03
+Sättigung=222.43; Szene=playroom",exports/examples/frames/abb_datasetbeispiele_vi_ri_v03_03_VI_7525293677674007816.jpeg,exports/examples/frames/abb_fazit_visuelle_inszenierung_vi_ri_03_VI_7525293677674007816.jpeg
+abb_fazit_visuelle_inszenierung_vi_ri.png,4,7586737085831286071,RI,RI: starke Schnittdynamik,"Sehr viele schnelle Schnitte
+Stabilität=0.48; Cuts/s=8.45
+Sättigung=104.57; Szene=forest / broadleaf",exports/examples/frames/abb_human_evaluation_modellplausibilitaet_03_RI_7586737085831286071.jpeg,exports/examples/frames/abb_fazit_visuelle_inszenierung_vi_ri_04_RI_7586737085831286071.jpeg
+abb_fazit_visuelle_inszenierung_vi_ri.png,5,7204832049985834283,RI,RI: situative Reisesequenz,"Viele Szenenwechsel im Alltags-/Reisekontext
+Stabilität=0.29; Cuts/s=1.14
+Sättigung=66.07; Szene=airplane cabin",exports/examples/frames/abb_datasetbeispiele_vi_ri_v02_05_RI_7204832049985834283.jpeg,exports/examples/frames/abb_fazit_visuelle_inszenierung_vi_ri_05_RI_7204832049985834283.jpeg
+abb_fazit_visuelle_inszenierung_vi_ri.png,6,7500687358904290603,RI,RI: Aufnahme im Auto,"Situativer Aufnahmeort statt Studio-Setting
+Stabilität=0.70; Cuts/s=0.09
+Sättigung=97.59; Szene=car interior",exports/examples/frames/abb_visuelle_settings_szenen_05_RI_7500687358904290603.jpeg,exports/examples/frames/abb_fazit_visuelle_inszenierung_vi_ri_06_RI_7500687358904290603.jpeg
